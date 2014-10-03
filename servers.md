@@ -66,7 +66,7 @@ The “next generation” of ActiveMQ, [ Apache Apollo](http://activemq.apache.o
 
 ## Mosca
 
-As node.js MQTT broker can [ Mosca](https///github.com/mcollina/mosca ) be plugged on top of Redis, AMQP, MQTT, or ZeroMQ.
+As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugged on top of Redis, AMQP, MQTT, or ZeroMQ.
 
 ## Litmus Automation Loop
 
