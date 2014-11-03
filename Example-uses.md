@@ -30,6 +30,7 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 
 ## Mobile
 *  [Facebook Messenger](http://www.facebook.com/notes/facebook-engineering/building-facebook-messenger/10150259350998920)
+* [Thread Dating](http://threaddating.com/) using [ClearBlade](https.clearblade.com)
 
 ##  Technical 
 *  Check out the [Tools](tools) overview for details.
