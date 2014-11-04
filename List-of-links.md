@@ -1004,6 +1004,10 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://www.dioty.co/
 
 * https://github.com/sumnerboy12/mqtt-gpio-monitor
+* https://github.com/sandro-k/mqtt-connection/
+* http://blog.benjamin-cabe.com/2014/08/26/mqtt-on-the-ti-cc3200-launchpad-thanks-to-paho-embedded-client
+* http://shop.oreilly.com/product/0636920032366.do
+
 
 **Presentations**
 
