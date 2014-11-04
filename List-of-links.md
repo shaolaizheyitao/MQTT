@@ -1008,6 +1008,18 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://blog.benjamin-cabe.com/2014/08/26/mqtt-on-the-ti-cc3200-launchpad-thanks-to-paho-embedded-client
 * http://shop.oreilly.com/product/0636920032366.do
 
+* https://github.com/mcollina/mqtt-packet
+
+* MQTT 3.1.1 now a standard https://www.oasis-open.org/news/announcements/mqtt-version-3-1-1-becomes-an-oasis-standard
+
+* http://www.marketwired.com/press-release/machineshop-announces-support-for-mqtt-open-protocol-1962929.htm
+
+* https://www.eclipse.org/paho/clients/dotnet/
+
+* http://developer.mbed.org/teams/mqtt/code/HelloMQTT/
+
+* http://iot.eclipse.org/java/tutorial/
+
 
 **Presentations**
 
