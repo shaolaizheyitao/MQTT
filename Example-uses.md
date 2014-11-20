@@ -4,7 +4,7 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 
 ## Applications using MQTT
 
-*  [Gaian DB](https///www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=f6ce657b-f385-43b2-8350-458e6e4a344f) a distributed database
+*  [Gaian DB](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=f6ce657b-f385-43b2-8350-458e6e4a344f) a distributed database
 *  [Location Aware Messaging for Accessibility, LAMA](http://mqtt.org/projects/lama) an IBM Extreme Blue Project
 *  [Say It, Sign It (SiSi)](http://mqtt.org/projects/sisi) an IBM Extreme Blue Project
 *  [Relayr](https://relayr.io) uses MQTT to connect with the [Wunderbar](https://relayr.io/wunderbar) and other IoT devices.
