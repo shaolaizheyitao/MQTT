@@ -19,6 +19,7 @@ Server                                                                          
 [IBM MessageSight](http://www-03.ibm.com/software/products/en/messagesight/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | §       | ✔          | ✘             |
 [2lemetry](http://2lemetry.com/platform/)      | ✔     | ✔     | ✔     | ✔    | ✔                         | §                        | ✔   | ✔                                    | ✔       | ✔          | ✘             |
 [GnatMQ](http://mqttbroker.codeplex.com/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                       | ✘   | ✔                                    | ✘       | ✘          | ✘             |
+[JoramMQ](http://mqtt.jorammq.com)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations
 # Limitations
