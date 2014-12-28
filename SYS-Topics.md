@@ -59,13 +59,13 @@ The total number of retained messages active on the broker.
 * **$SYS/broker/subscriptions/count**:
 The total number of subscriptions active on the broker.
 
-* **$SYS/broker/broker/time**:
+* **$SYS/broker/time**:
 The current time on the server.
 
-* **$SYS/broker/broker/uptime**:
+* **$SYS/broker/uptime**:
 The amount of time in seconds the broker has been online.
 
-* **$SYS/broker/broker/version**:
+* **$SYS/broker/version**:
 The version of the broker. Static.
 
 ## Optional Topics:
