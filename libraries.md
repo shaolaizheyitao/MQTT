@@ -18,8 +18,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [mbed (native implementation)](http://mbed.org/users/Nim65s/code/niMQTT/)
 
-*  [mbed (Paho Embedded C++ port)](http://developer.mbed.org/teams/mqtt/code/MQTT/)([more information] (https://www.eclipse.org/paho/clients/c/embedded/))
-*  [mbed (Paho Embedded C port)](http://developer.mbed.org/teams/mqtt/code/MQTTPacket/)([more information](https://www.eclipse.org/paho/clients/c/embedded/))
+*  [mbed (Paho Embedded C++ port)](http://developer.mbed.org/teams/mqtt/code/MQTT/) ([more information] (https://www.eclipse.org/paho/clients/c/embedded/))
+*  [mbed (Paho Embedded C port)](http://developer.mbed.org/teams/mqtt/code/MQTTPacket/) ([more information](https://www.eclipse.org/paho/clients/c/embedded/))
 
 *  [Nanode](http://github.com/njh/NanodeMQTT/)
 
@@ -35,7 +35,9 @@ Check with the provider for the current status of your preferred language implem
 
 ####C
 
-*  [Eclipse Paho C](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.c.git/)
+*  [Eclipse Paho C] (https://www.eclipse.org/paho/clients/c/)
+
+*  [Eclipse Paho Embedded C] (https://www.eclipse.org/paho/clients/c/embedded/)
 
 *  [libmosquitto](http://mosquitto.org)
 
@@ -43,7 +45,11 @@ Check with the provider for the current status of your preferred language implem
 
 ####C++
 
+*  [Eclipse Paho C++] (https://www.eclipse.org/paho/clients/cpp/)
+
 *  [libmosquittopp](http://mosquitto.org)
+
+*  [Eclipse Paho Embedded C++] (https://www.eclipse.org/paho/clients/c/embedded/)
 
 ####Clojure
 
