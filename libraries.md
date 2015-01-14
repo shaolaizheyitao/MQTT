@@ -18,7 +18,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [mbed (native implementation)](http://mbed.org/users/Nim65s/code/niMQTT/)
 
-*  [mbed (Paho Embedded C port)](http://developer.mbed.org/teams/mqtt/code/MQTT/)
+*  [mbed (Paho Embedded C++ port)](http://developer.mbed.org/teams/mqtt/code/MQTT/)[more information](https://www.eclipse.org/paho/clients/c/embedded/))
+*  [mbed (Paho Embedded C port)](http://developer.mbed.org/teams/mqtt/code/MQTTPacket/)([more information](https://www.eclipse.org/paho/clients/c/embedded/))
 
 *  [Nanode](http://github.com/njh/NanodeMQTT/)
 
