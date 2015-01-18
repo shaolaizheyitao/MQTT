@@ -34,7 +34,7 @@ The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly know
 
 ## eMQTT
 
-An [ Erlang MQTT](https://github.com/emqtt/emqtt ) broker.
+An [ Erlang MQTT Broker] (https://github.com/emqtt/emqtt). [eMQTT](https://github.com/emqtt/emqtt) is a clusterable, scalable, fault-tolerant and extensible MQTT V3.1.1 broker written in Erlang/OTP. 
 
 ## m2m.io
 
