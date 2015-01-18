@@ -28,13 +28,14 @@ The [ Eclipse Paho](http://www.eclipse.org/paho/ ) project hosts an instance of 
 
 [Eurotech Everywhere Device Cloud](http://www.eurotech.com/en/solutions/device+to+cloud/mqtt+protocol) is a cloud-based service provided by [Eurotech](http://www.eurotech.com).
 
+## eMQTT
+
+An [ Erlang MQTT Broker] (https://github.com/emqtt/emqtt). [eMQTT](https://github.com/emqtt/emqtt) is a clusterable, scalable, fault-tolerant and extensible MQTT V3.1.1 broker written in Erlang/OTP. 
+
 ## Xively
 
 The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly known as Pachube, provides a data cloud for the Internet of Things, with MQTT support in beta. This is not a generic MQTT broker implementation; it uses MQTT as a transport for publishing and subscribing to your already existing data feeds ([more information](mqtt_and_pachube)).
 
-## eMQTT
-
-An [ Erlang MQTT Broker] (https://github.com/emqtt/emqtt). [eMQTT](https://github.com/emqtt/emqtt) is a clusterable, scalable, fault-tolerant and extensible MQTT V3.1.1 broker written in Erlang/OTP. 
 
 ## m2m.io
 
