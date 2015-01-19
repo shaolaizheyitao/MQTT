@@ -2,7 +2,7 @@
 
 There are a range of great articles and samples showing how MQTT can be used on the Android platform.
 
-*  [Android MQTT Push](https///github.com/dobermai/android-mqtt-push) code sample for German Eclipse Magazin article on Eclipse Paho on Android
+*  [Android MQTT Push](https://github.com/dobermai/android-mqtt-push) code sample for German Eclipse Magazin article on Eclipse Paho on Android
 
 *  [MQTT and Android](http://dalelane.co.uk/blog/?p=1599) comprehensive example discussing various issues by [Dale Lane](http://twitter.com/dalelane)
 
