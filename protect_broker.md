@@ -4,11 +4,10 @@ The following table describes some of these challenges and associated controls:
 
 | Security Challenge           | Suggested Controls | 
 | ------------------           | ------------------ | 
-| Unencrypted communications   | [Communications Encryption Options](Communications Encryption Options) | 
-| Require Authentication       | [Authentication Features](Authentication Features)                   | 
-| Require Authorization Rules  | [Authorization Features](Authorization Features)                     | 
-| Server Configuration Control | [Server Security Considerations](Server Security Considerations)     | 
-|                              |                                                                      | 
+| Unencrypted communications   | [Communications Encryption Options](communications_encryption_options) | 
+| Require Authentication       | [Authentication Features](authentication_features)                   | 
+| Require Authorization Rules  | [Authorization Features](authorization_features)                     | 
+| Server Configuration Control | [Server Security Considerations](server_security_considerations)     | 
 
 
 
