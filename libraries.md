@@ -69,6 +69,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [erlmqtt](https://github.com/squaremo/erlmqtt)
 
+*  [emqttc](https://github.com/emqtt/emqttc) - Erlang MQTT Client
+
 *  [mqtt4erl](http://code.google.com/p/mqtt4erl/)
 
 *  [my-mqtt4erl](http://code.google.com/p/my-mqtt4erl/) - updated fork of mqtt4erl
