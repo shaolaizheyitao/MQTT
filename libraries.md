@@ -25,7 +25,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Netduino](https://github.com/danielan/NetduinoMQTT)
 
-*  [M2MQTT (works with .Net Micro Framework)](https///m2mqtt.codeplex.com/)
+*  [M2MQTT (works with .Net Micro Framework)](https://m2mqtt.codeplex.com/)
 
 (see also [devices](things) page for more on hardware with built-in support)
 
@@ -125,7 +125,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [nMQTT](https://github.com/markallanson/nmqtt)
 
-*  [M2MQTT](https///m2mqtt.codeplex.com/)
+*  [M2MQTT](https://m2mqtt.codeplex.com/)
 
 *  [KittyHawkMQ] (http://www.kittyhawkmq.com/)
 
