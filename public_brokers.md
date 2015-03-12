@@ -54,3 +54,11 @@ _port_ | `18443`, `28443` (SSL)
 _type_ | mosquitto
 _info_ | requires signup/username and password, [pricing](http://www.cloudmqtt.com/plans.html) (free plan available), [documentation](http://www.cloudmqtt.com/docs.html)
 
+***
+
+field | value
+------|------
+_address_ | `mq.thingmq.com` 
+_port_ | `1883` (MQTT), `8883` (MQTT+SSL), `80` (REST), `80` (WebSockets), `5683` (CoAP)
+_type_ | ThingMQ
+_info_ | Free shared instance, [documentation](http://thingmq.com/#docs) 
