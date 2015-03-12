@@ -79,7 +79,7 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 ## ThingMQ
 
-[ThingMQ](https://thingmq.com) is a carrier-grade MQTT message broker that runs on the cloud. It supports the MQTT 3.1 standard as well as CoAP, REST and WebSockets. Messages published on ThingMQ using MQTT are automatically bridged and can be consumed using CoAP, REST of WebSockets. A shared instance of ThingMQ is offered free of charge.
+[ThingMQ](https://thingmq.com) is a carrier-grade MQTT message broker that runs on the cloud. It supports the MQTT 3.1 standard as well as CoAP, REST and WebSockets. Messages published on ThingMQ using MQTT are automatically bridged and can be consumed using CoAP, REST or WebSockets. A shared instance of ThingMQ is offered free of charge.
 
 **More information on brokers**
 
