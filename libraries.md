@@ -35,7 +35,7 @@ Check with the provider for the current status of your preferred language implem
 
 ####Bash
 
-* see Shell Script, below
+* see [Shell Script](#shell-script), below
 
 ####C
 
