@@ -33,6 +33,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [as3MQTT](https://github.com/yangboz/as3MQTT)
 
+####Bash
+
+* see Shell Script, below
+
 ####C
 
 *  [Eclipse Paho C] (https://www.eclipse.org/paho/clients/c/)
@@ -177,6 +181,10 @@ Check with the provider for the current status of your preferred language implem
 *  [em-mqtt](https://rubygems.org/gems/em-mqtt)
 
 *  [mosquitto](https://github.com/xively/mosquitto)
+
+####Shell Script
+
+*  [bish-bosh](https://github.com/raphaelcohn/bish-bosh), supports bash, ash (including BusyBox), pdksh and mksh.
 
 ####Tcl
 
