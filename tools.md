@@ -33,7 +33,7 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [ TT3](https://github.com/francoisvdm/TT3) - a full featured windows MQTT client application using Paho libs.  Several additional features like performance testing and alerts.
 
-*  [mqtt-spy](https://code.google.com/p/mqtt-spy/) - an open source utility based on the Paho Java client; for details see the [project's home page](https://code.google.com/p/mqtt-spy/).
+*  [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - an open source utility based on the Paho Java client; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
 
 ### Desktop notification tools
 
