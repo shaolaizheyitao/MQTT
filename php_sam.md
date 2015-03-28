@@ -21,78 +21,75 @@ To include the library:
 
 Once this has been included it is a trivial process to connect and send a message. This example shows how to get the average CPU usage over the last minute and send it over MQTT on the topic CPU (note you'll need to remove the space in the shell exec command if you copy and paste this code):
 
-`<file php cpu_publish.php>`
-require('SAM/php_sam.php');
+Example `cpu_publish.php`
 
-//create a new connection object
-$conn = new SAMConnection();
+    require('SAM/php_sam.php');
 
-//start initialise the connection
-$conn->connect(SAM_MQTT, array(SAM_HOST => `<Broker IP>`,
+    //create a new connection object
+    $conn = new SAMConnection();
+
+    //start initialise the connection
+    $conn->connect(SAM_MQTT, array(SAM_HOST => `<Broker IP>`,
                                  SAM_PORT => 1883));
+    //while the connection exists
+    while($conn)
+    {
+        //get the cpu usage using a shell command
+        $cmd = "cat /proc/loadavg";
+        $rawCpu=shell_exec ($cmd);
 
-//while the connection exists
-        while($conn)
+        $result=preg_match("/^\d+.\d+/", $rawCpu, $cpu);
+
+        //if successful then send message
+        if($result==1)
         {
-           //get the cpu usage using a shell command
-           $cmd = "cat /proc/loadavg";
-           
-           $rawCpu=shell_exec ($cmd);
+            //create a new MQTT message with the output of the shell command as the body
+            $msgCpu = new SAMMessage("$cpu[0]");
 
-            $result=preg_match("/^\d+.\d+/", $rawCpu, $cpu);
-            //if successful then send message
-             if($result==1)
-             {
-                //create a new MQTT message with the output of the shell command as the body
-                $msgCpu = new SAMMessage("$cpu[0]");
+            //send the message on the topic cpu
+            $conn->send('topic://cpu', $msgCpu);
 
-                //send the message on the topic cpu
-                $conn->send('topic://cpu', $msgCpu);
+            // print sent to the terminal
+            echo "sent";
 
-                // print sent to the terminal
-                echo "sent";
-
-                //wait for a minute
-                sleep(60);
-            }
+            //wait for a minute
+            sleep(60);
         }
-`</file>`
+    }
 
 ### Receiving Messages
 
 Subscribing to topics is a similarly simple process. In this example we will receive the messages sent by the above example and print them to the terminal:
 
-`<file php cpu_subscribe.php>`
-require('SAM/php_sam.php');
+Example `cpu_subscribe.php`
 
-//create a new connection object
-$conn = new SAMConnection();
+    require('SAM/php_sam.php');
 
-//start initialise the connection
-$conn->connect(SAM_MQTT, array(SAM_HOST => `<Broker IP>`,
+    //create a new connection object
+    $conn = new SAMConnection();
+
+    //start initialise the connection
+    $conn->connect(SAM_MQTT, array(SAM_HOST => `<Broker IP>`,
                                  SAM_PORT => 1883));
 
-//subscribe to topic cpu
+    //subscribe to topic cpu
     $subUp = $conn->subscribe('topic://cpu') OR die('could not subscribe');
 
-//print confirmation to terminal
- echo "subscribed";
+    //print confirmation to terminal
+    echo "subscribed";
 
-while($conn)
-{
-       //receive latest message on topic $subUp
-       $msgUp = $conn->receive($subUp);
+    while($conn)
+    {
+        //receive latest message on topic $subUp
+        $msgUp = $conn->receive($subUp);
+        
+        //if there is a message
+        if (!$msgUp->body=="")
+        {
+            //echo message to terminal
+            echo $msgUp->body;
+        }
 
-       //if there is a message
-      if (!$msgUp->body=="")
-      {
-          //echo message to terminal
-          echo $msgUp->body;
-      }
-
-      //wait 1s
-      sleep(1);
-}
-`</file>`
-
-
+        //wait 1s
+        sleep(1);
+    }
