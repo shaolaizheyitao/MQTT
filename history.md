@@ -2,7 +2,7 @@ MQTT was created by [Andy Stanford-Clark](http://en.wikipedia.org/wiki/Andy_Stan
 
 FIXME more detail required :-)
 
-{{ youtube>WVWAXnbnV3w?medium }}
+[WebSphere MQ Telemetry(Youtube)](https://www.youtube.com/watch?v=WVWAXnbnV3w)
 
 Episode #9 of the IBM Connectivity and Integration Podcasts has some interesting background and history of MQTT.
 *  [Podcast Home](https///www-01.ibm.com/software/websphere/connectivity/integration/podcasts/)
