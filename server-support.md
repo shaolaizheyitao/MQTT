@@ -20,7 +20,7 @@ Server                                                                          
 [2lemetry](http://2lemetry.com/platform/)      | ✔     | ✔     | ✔     | ✔    | ✔                         | §                        | ✔   | ✔                                    | ✔       | ✔          | ✘             |
 [GnatMQ](http://mqttbroker.codeplex.com/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                       | ✘   | ✔                                    | ✘       | ✘          | ✘             |
 [JoramMQ](http://mqtt.jorammq.com)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
-
+[ThingMQ](https://thingmq.com)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✘                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 Key: ✔ supported ✘ not supported ? unknown § see limitations
 # Limitations
 
