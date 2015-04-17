@@ -36,7 +36,7 @@ If you have a good example or know of some online information which is not repre
 ## Documentation & Reference
 *  [Questions](Questions)
 *  [Technical articles](Technical articles)
-*  [Blog posts](Blog posts) and podcasts etc
+*  [Blog post](blog_posts) and podcasts etc
 *  [Useful presentations](Useful presentations)
 *  [Server support](Server support)
 
