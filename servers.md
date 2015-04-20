@@ -28,9 +28,14 @@ The [ Eclipse Paho](http://www.eclipse.org/paho/ ) project hosts an instance of 
 
 [Eurotech Everywhere Device Cloud](http://www.eurotech.com/en/solutions/device+to+cloud/mqtt+protocol) is a cloud-based service provided by [Eurotech](http://www.eurotech.com).
 
-## eMQTT
+## emqttd
 
-An [ Erlang MQTT Broker] (https://github.com/emqtt/emqtt). [eMQTT](https://github.com/emqtt/emqtt) is a clusterable, scalable, fault-tolerant and extensible MQTT V3.1.1 broker written in Erlang/OTP. 
+Open Source Erlang MQTT Broker. [emqttd](https://github.com/emqtt/emqttd) is a clusterable, massively scalable MQTT V3.1/V3.1.1 broker written in Erlang/OTP. emqttd support both V3.1.1 and V3.1 protocol specification, support QoS0/1/2 publish and subscribe, session management and retained messages, TCP/SSL connections, ACL and Authentication, $SYS/borkers/# Topics. emqttd passed eclipse paho interoperability tests.
+
+Benchmark 0.6.1-alpha on a ubuntu/14.04 server with 8 cores, 32G memory from QingCloud:
+```
+200K+ Connections, 200K+ Topics, 20K+ In/Out Messages/sec, 20Mbps+ In/Out with 8G Memory, 40%CPU/core
+```
 
 ## Xively
 
