@@ -79,6 +79,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [my-mqtt4erl](http://code.google.com/p/my-mqtt4erl/) - updated fork of mqtt4erl
 
+####Elixir
+
+*  [hulaaki](https://github.com/suvash/hulaaki)
+
 ####Go
 
 *  [Eclipse Paho Go](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.golang.git/)
