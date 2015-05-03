@@ -35,6 +35,13 @@ If you came across an interesting blog post please add it here.
 
 * [MQTT over websockets](http://www.hivemq.com/mqtt-over-websockets-with-hivemq/)
 
-* [Overview of MQTT client tools](http://www.hivemq.com/overview-of-mqtt-client-tools/)
+* [The Seven Best MQTT Client Tools](http://www.hivemq.com/seven-best-mqtt-client-tools/)
 
 * [The missing piece between MQTT and a SQL database in a M2M landscape](http://www.hivemq.com/mqtt-sql-database/): See how to use SQL databases with MQTT and learn why wildcard subscribers are evil.
+
+* [MQTT Essentials - A blog series about the core features and concepts in the MQTT protocol](http://www.hivemq.com/mqtt-essentials-wrap-up/)
+
+* [6 facts why it’s worth upgrading to the brand new MQTT 3.1.1 version](http://www.hivemq.com/6-facts-why-its-worth-upgrading-to-mqtt-3-1-1/)
+
+* [MQTT 101 – How to Get Started with the lightweight IoT Protocol](http://www.hivemq.com/how-to-get-started-with-mqtt/)
+
