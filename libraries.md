@@ -166,6 +166,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP)
 
+*  [sskaje's MQTT library](http://github.com/sskaje/mqtt)
+
 ####Python
 
 *  [Eclipse Paho Python](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.python.git/) - originally the mosquitto Python client
