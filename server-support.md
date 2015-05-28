@@ -21,6 +21,7 @@ Server                                                                          
 [GnatMQ](http://mqttbroker.codeplex.com/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                       | ✘   | ✔                                    | ✘       | ✘          | ✘             |
 [JoramMQ](http://mqtt.jorammq.com)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [ThingMQ](https://thingmq.com)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✘                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
+[VerneMQ](https://verne.mq)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 Key: ✔ supported ✘ not supported ? unknown § see limitations
 # Limitations
 
