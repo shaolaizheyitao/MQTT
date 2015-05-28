@@ -89,6 +89,10 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 [ThingMQ](https://thingmq.com) is a carrier-grade MQTT message broker that runs on the cloud. It supports the MQTT 3.1 standard as well as CoAP, REST and WebSockets. Messages published on ThingMQ using MQTT are automatically bridged and can be consumed using CoAP, REST or WebSockets. A shared instance of ThingMQ is offered free of charge.
 
+## VerneMQ
+
+[VerneMQ](http://verne.mq) is an enterprise ready, high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is Apache2 licensed.
+
 **More information on brokers**
 
 
