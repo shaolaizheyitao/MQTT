@@ -1001,7 +1001,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://github.com/dpjanes/iotdb-smartthings
 
-* http://www.dioty.co/
+* http://www.dioty.co/ - Cloud MQTT Broker and mobile app for the Internet of Things
 
 * https://github.com/sumnerboy12/mqtt-gpio-monitor
 * https://github.com/sandro-k/mqtt-connection/
