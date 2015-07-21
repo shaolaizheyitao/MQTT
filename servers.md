@@ -93,6 +93,10 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 [VerneMQ](http://verne.mq) is an enterprise ready, high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is Apache2 licensed.
 
+## HBMQTT
+
+[HBMQTT](http://community.beerfactory.org/wiki/bin/view/HBMQTT/) is an open-source implementation of MQTT broker and client. It uses Python 3.4 asyncio library for providing a mono-threaded, non-blocking implementation of the protocol.
+
 **More information on brokers**
 
 
