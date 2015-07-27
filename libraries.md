@@ -10,7 +10,9 @@ Check with the provider for the current status of your preferred language implem
 
 ####Device-Specific
 
-*  [Arduino](https://github.com/knolleary/pubsubclient) ([more information](http://knolleary.net/arduino-client-for-mqtt/))
+*  [Arduino](https://github.com/knolleary/pubsubclient) ([more information](http://knolleary.net/arduino-client-for-mqtt/)
+
+*  [Espduino](https://github.com/tuanpmt/espduino) (tailored Arduino library for the ESP8266)
 
 *  [mbed](https://github.com/yilun/MQTT-client-on-mbed) ([more information](http://ceit.uq.edu.au/content/mqttclient-mbed-version-20))
 
