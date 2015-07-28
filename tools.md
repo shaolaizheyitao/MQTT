@@ -72,4 +72,6 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [ mqttfs](https://bitbucket.org/oojah/mqttfs) - mqttfs allows you to mount a directory as effectively a link to an MQTT topic hierarchy on an MQTT server.
 
+* [ThingStudio] (http://www.thingstud.io) - ThingStudio allows you create real-time HTML5 user interfaces for MQTT devices by writing simple HTML templates.
+
 
