@@ -194,6 +194,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [bish-bosh](https://github.com/raphaelcohn/bish-bosh), supports bash, ash (including BusyBox), pdksh and mksh.
 
+####Swift
+
+* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - An MQTT client for iOS and OS X written with Swift
+
 ####Tcl
 
 *  [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt)
