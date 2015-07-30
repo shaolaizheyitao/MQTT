@@ -50,6 +50,7 @@ Below are approaches to common tasks and examples using the various APIs:
 ## Language examples
 
 *  [Python examples](Python examples)
+*  [Scala examples](Scala MQTT Client)
 
 ## Mobile platform examples
 
