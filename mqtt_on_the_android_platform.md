@@ -22,9 +22,9 @@ There are a range of great articles and samples showing how MQTT can be used on 
 
 *  [Android with ActiveMQ and MQTT](http://jason-sherman.blogspot.co.uk/2012/08/android-mqtt-with-activemq.html)
 
-*  [Android-Paho-MQTT-Service](https///github.com/JesseFarebro/Android-Paho-MQTT-Service) - A simple MQTT Service that will keep running for the duration of your Android application using the Paho Java MQTT Client.
+*  [Android-Paho-MQTT-Service](https://github.com/JesseFarebro/Android-Paho-MQTT-Service) - A simple MQTT Service that will keep running for the duration of your Android application using the Paho Java MQTT Client.
 
-*  [mqttitude](https///github.com/binarybucks/mqttitude) - A Google Latitude replacement based on MQTT
+*  [mqttitude](https://github.com/binarybucks/mqttitude) - A Google Latitude replacement based on MQTT
 
 There are also some good write-ups out there about __reasons__ to use MQTT on mobile platforms:
 
