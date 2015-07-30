@@ -49,6 +49,7 @@ Below are approaches to common tasks and examples using the various APIs:
 
 ## Language examples
 
+*  [Java examples](Java MQTT Client)
 *  [Python examples](Python examples)
 *  [Scala examples](Scala MQTT Client)
 
