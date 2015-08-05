@@ -17,6 +17,9 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 * [ThingStudio] (http://www.thingstud.io) - ThingStudio allows you create real-time HTML5 user interfaces for MQTT devices by writing simple HTML templates.
 
+*  [ moquette](https://github.com/andsel/moquette ) - an open source JAVA broker for MQTT protocol.
+
+
 ### Mobile platforms
 
 
