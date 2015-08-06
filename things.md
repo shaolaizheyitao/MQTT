@@ -21,3 +21,5 @@ Here are some companies / devices we know about:
 *  [Flukso](https///www.flukso.net/) - Fluksometer, an electricity metering device with native MQTT support
 
 * [ReMake](http://www.remakeelectric.com/) - ReMake Electric electricity metering systems publish all readings to the on-device MQTT broker.
+
+* [Owasys](http://www.owasys.com) - The owa11 model is an IP67 asset tracking and telemetry unit reporting location, events and IO information using MQTT
