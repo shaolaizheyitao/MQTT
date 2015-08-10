@@ -190,6 +190,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [mosquitto](https://github.com/xively/mosquitto)
 
+#### Qt
+
+* [qmqtt](https://github.com/emqtt/qmqtt) - MQTT Client for Qt
+
 ####Shell Script
 
 *  [bish-bosh](https://github.com/raphaelcohn/bish-bosh), supports bash, ash (including BusyBox), pdksh and mksh.
