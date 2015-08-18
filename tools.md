@@ -40,7 +40,7 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - the most advanced open source utility for monitoring activity on MQTT topics; based on the Paho Java client; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
 
-*  [mqtt-spy-daemon](http://kamilfb.github.io/mqtt-spy/) - a headless version of mqtt-spy; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
+*  [mqtt-spy-daemon](http://kamilfb.github.io/mqtt-spy/) - a headless (command-line) version of mqtt-spy; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
 
 * [mosquitto_pub/mosquitto_sub](http://mosquitto.org) - Publish/Subscribe command line clients, provided with the mosquitto package.
 
