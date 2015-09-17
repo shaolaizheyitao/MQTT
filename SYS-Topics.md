@@ -32,17 +32,11 @@ The maximum number of active clients that have been connected to the broker. Thi
 * **$SYS/broker/clients/total**:
 The total number of connected and disconnected clients with a persistent session currently connected and registered on the broker.
 
-* **$SYS/broker/messages/inflight**:
-The number of messages with QoS>0 that are awaiting acknowledgments.
-
 * **$SYS/broker/messages/received**:
 The total number of messages of any type received since the broker started.
 
 * **$SYS/broker/messages/sent**:
 The total number of messages of any type sent since the broker started.
-
-* **$SYS/broker/messages/stored**:
-The number of messages currently held in the message store. This includes retained messages and messages queued for durable clients.
 
 * **$SYS/broker/messages/publish/dropped**:
 The total number of publish messages that have been dropped due to inflight/queuing limits.
@@ -102,6 +96,12 @@ The moving average of the number of publish messages sent by the broker over dif
 
 * **$SYS/broker/load/sockets/+**:
 The moving average of the number of socket connections opened to the broker over different time intervals. The final "+" of the hierarchy can be 1min, 5min or 15min. The value returned represents the number of socket connections in 1 minute, averaged over 1, 5 or 15 minutes.
+
+* **$SYS/broker/messages/inflight**:
+The number of messages with QoS>0 that are awaiting acknowledgments.
+
+* **$SYS/broker/messages/stored**:
+The number of messages currently held in the message store. This includes retained messages and messages queued for durable clients.
 
 * **$SYS/broker/timestamp**:
 The timestamp at which this particular build of the broker was made. Static.
