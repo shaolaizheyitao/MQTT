@@ -103,7 +103,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Fusesource mqtt-client](https://github.com/fusesource/mqtt-client)
 
-*  [moquette](http://code.google.com/p/moquette-mqtt/)
+*  [moquette](https://github.com/andsel/moquette)
 
 *  [ "MA9B" zip of 1/2 dozen mobile clients source code. Includes Android-optimized Java source that works with Android notifications, based on Paho](http://www-933.ibm.com/support/fixcentral/swg/selectFix?product=ibm%2FWebSphere%2FWebSphere+MQ&fixids=1.0.0.1-WS-MQCP-MA9B&source=dbluesearch&function=fixId&parent=ibm/WebSphere )
 
