@@ -47,7 +47,7 @@ Ideas (and reasons for why they may be required) are being collected here:
 
 *  [Add messageid to ping](Add messageid to ping)
 
-*  [Will Message UTF8 Support](Will Message UTF8 Support)
+*  [Will Message UTF8 Support](https://github.com/mqtt/mqtt.github.io/wiki/will_message_utf8_support)
 
 *  [Bridge protocol](Bridge protocol)
 
