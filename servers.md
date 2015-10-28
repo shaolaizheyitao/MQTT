@@ -88,6 +88,10 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 [JoramMQ](http://mqtt.jorammq.com) is an offering by ScalAgent providing a message broker that fully supports MQTT 3.1, JMS 2.0, and AMQP 1.0. Interoperability between these standards is ensured by the message broker. MQTT can be used over TCP/IP, TLS (SSL), WebSocket, and secure WebSocket. JoramMQ is particularly appropriate for applications that need to scale with the number of MQTT clients while allowing the publishers to reliably transmit a large volume of messages with a low latency.
 
+## Solace
+
+[Solace Message Routers](http://dev.solacesystems.com/tech/) (available as hardware and software) are message brokers that support MQTT, JMS, and REST among other APIs, protocols and qualities of service for enterprise messaging, data collection and web/mobile streaming. They support very high connection counts and throughput with built-in buffering to handle bursty traffic, and offer enterprise-class monitoring, high availability and security.
+
 ## ThingMQ
 
 [ThingMQ](https://thingmq.com) is a carrier-grade MQTT message broker that runs on the cloud. It supports the MQTT 3.1 standard as well as CoAP, REST and WebSockets. Messages published on ThingMQ using MQTT are automatically bridged and can be consumed using CoAP, REST or WebSockets. A shared instance of ThingMQ is offered free of charge.
