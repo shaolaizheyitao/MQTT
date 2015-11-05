@@ -62,3 +62,11 @@ _address_ | `mq.thingmq.com`
 _port_ | `1883` (MQTT), `8883` (MQTT+SSL), `80` (REST), `80` (WebSockets), `5683` (CoAP)
 _type_ | ThingMQ
 _info_ | Free shared instance, [documentation](http://thingmq.com/#docs) 
+***
+
+field | value
+------|------
+_address_ | `mqtt.kgbvax.net` 
+_port_ | `1883` (MQTT)
+_type_ | mosquitto
+_info_ | Free shared instance, currently supports persistence
