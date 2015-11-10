@@ -49,6 +49,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [libemqtt](https://github.com/menudoproblema/libemqtt) - an embedded C client
 
+*  [wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - Embedded C client
+
 ####C++
 
 *  [Eclipse Paho C++] (https://www.eclipse.org/paho/clients/cpp/)
