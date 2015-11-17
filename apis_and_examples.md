@@ -37,6 +37,9 @@ Below are approaches to common tasks and examples using the various APIs:
 
 *  [Using Cosm (aka Pachube) with MQTT](MQTT and Pachube)
 
+*  <a href="http://opensensors.io" onclick="window.open('http://support.opensensors.io/support/home');
+return true;">Using MQTT with OpenSensors</a>
+
 *  [Using MQTT with Apache Ant](https///tingenek.wordpress.com/2009/10/14/mqtt-ant-task/)
 
 *  [MQTT and LotusScript for email automation](https///tingenek.wordpress.com/2011/11/30/mqtt-with-lotus-notes/)
