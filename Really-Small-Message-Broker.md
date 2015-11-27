@@ -32,7 +32,7 @@ Download links can be found here: [software section](http://mqtt.org/software)
 
 ## Usage
 
-{{youtube>MyIxH8NZlbk?medium}}
+https://www.youtube.com/watch?v=MyIxH8NZlbk
 
 (to be completed)
 
