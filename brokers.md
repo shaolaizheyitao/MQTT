@@ -5,3 +5,4 @@
 - [Mosca](http://www.mosca.io/)
 - [MQTT Dashboard](http://mqttdashboard.com/dashboard)
 - [Eclipse IoT](http://iot.eclipse.org/)
+- [VerneMQ](https://verne.mq)
