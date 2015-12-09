@@ -6,3 +6,4 @@
 - [MQTT Dashboard](http://mqttdashboard.com/dashboard)
 - [Eclipse IoT](http://iot.eclipse.org/)
 - [VerneMQ](https://verne.mq)
+- [Solace] (http://dev.solacesystems.com)
