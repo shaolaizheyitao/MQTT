@@ -1,0 +1,1 @@
+Some clients (mostly web) doesn't have any offline storage. For apps like messaging it will be interesting to fetch offline messages. So last will message can be something like fetch_message(x) where x = number of messages and can be useful to implement pagination or fetch_message(last_active_time) for all the topics.
