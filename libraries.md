@@ -183,6 +183,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [MQTT for twisted python](https://github.com/adamvr/MQTT-For-Twisted-Python)
 
+*  [HBMQTT](https://github.com/beerfactory/hbmqtt)
+
 ####REXX
 
 *  [REXX MQTT](https://github.com/DougieLawson/REXX_MQTT)
