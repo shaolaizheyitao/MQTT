@@ -102,7 +102,7 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 ## HBMQTT
 
-[HBMQTT](http://community.beerfactory.org/wiki/bin/view/HBMQTT/) is an open-source implementation of MQTT broker and client. It uses Python 3.4 asyncio library for providing a mono-threaded, non-blocking implementation of the protocol.
+[HBMQTT](https://github.com/beerfactory/hbmqtt) is an open-source implementation of MQTT broker and client. It uses Python 3.4+ asyncio library for providing a mono-threaded, non-blocking implementation of the protocol.
 
 **More information on brokers**
 
