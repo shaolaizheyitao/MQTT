@@ -137,7 +137,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [nMQTT](https://github.com/markallanson/nmqtt)
 
-*  [M2MQTT](https://m2mqtt.codeplex.com/)
+*  [M2MQTT](https://github.com/ppatierno/m2mqtt)
 
 *  [KittyHawkMQ] (http://www.kittyhawkmq.com/)
 
