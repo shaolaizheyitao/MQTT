@@ -66,7 +66,7 @@ Details of “classic” [ ActiveMQ’s](http://activemq.apache.org/index.html )
 
 ## Apache Apollo
 
-The “next generation” of ActiveMQ, [ Apache Apollo](http://activemq.apache.org/apollo/ ), supports MQTT via a [plugin](https///github.com/fusesource/fuse-extra/tree/master/fusemq-apollo/fusemq-apollo-mqtt).
+The “next generation” of ActiveMQ, [ Apache Apollo](http://activemq.apache.org/apollo/ ), supports MQTT via a [plugin](https://github.com/fusesource/fuse-extra/tree/master/fusemq-apollo/fusemq-apollo-mqtt).
 
 ## Moquette
 
