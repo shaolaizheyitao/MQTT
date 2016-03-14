@@ -8,7 +8,7 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 *  [Location Aware Messaging for Accessibility, LAMA](http://mqtt.org/projects/lama) an IBM Extreme Blue Project
 *  [Say It, Sign It (SiSi)](http://mqtt.org/projects/sisi) an IBM Extreme Blue Project
 *  [Relayr](https://relayr.io) uses MQTT to connect with the [Wunderbar](https://relayr.io/wunderbar) and other IoT devices.
-*  [Owasys Fleet Management](https://flotas.owasys.com/en) is a vehicle location service providing real-time tracking and event information in efficient manner using MQTT and [owa11A](http://www.owasys.com/en/products/owa11) devices.
+*  [Owasys Fleet Management](https://flotas.owasys.com/en) is a vehicle location service providing real-time tracking and event information efficiently using MQTT [owa11A](http://www.owasys.com/en/products/owa11) devices.
 
 ## Home Automation
 
