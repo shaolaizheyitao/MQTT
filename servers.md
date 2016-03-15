@@ -30,15 +30,11 @@ The [ Eclipse Paho](http://www.eclipse.org/paho/ ) project hosts an instance of 
 
 ## emqttd
 
-Open Source Erlang MQTT Broker. [emqttd](https://github.com/emqtt/emqttd) is a clusterable, massively scalable MQTT V3.1/V3.1.1 broker written in Erlang/OTP. 
+[emqttd](https://github.com/emqtt/emqttd) is a massively scalable and clusterable MQTT V3.1/V3.1.1 broker written in Erlang/OTP. Latest release(0.17) of emqttd broker is scaling to 1.3 million MQTT connections on a 12 Core, 32G CentOS server.
 
-emqttd support both V3.1.1 and V3.1 protocol specification, support QoS0/1/2 publish and subscribe, session management and retained messages, TCP/SSL connections, ACL and Authentication, '$SYS/#' Topics.
+emqttd is fully open source and licensed under the Apache Version 2.0. emqttd implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports WebSocket, STOMP, SockJS, CoAP and MQTT-SN at the same time.
 
-Benchmark emqttd-0.6.1-alpha on a ubuntu/14.04 server with 8 cores, 32G memory from QingCloud:
-
-200K+ Connections, 200K+ Topics, 20K+ In/Out Messages/sec, 20Mbps+ In/Out with 8G Memory, 40%CPU/core
-
-emqttd-0.6+ release passed [eclipse paho interoperability tests](http://www.eclipse.org/paho/clients/testing/).
+The emqttd project provides a scalable, distributed, extensible open-source MQTT broker for IoT, M2M and Mobile applications that hope to handle millions of concurrent MQTT clients.
 
 ## Xively
 
