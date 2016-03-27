@@ -8,3 +8,4 @@
 - [VerneMQ](https://verne.mq)
 - [Solace] (http://dev.solacesystems.com)
 - [CloudMQTT] (https://www.cloudmqtt.com)
+- [emqttd] (https://github.com/emqtt/emqttd)
