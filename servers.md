@@ -66,7 +66,7 @@ The “next generation” of ActiveMQ, [ Apache Apollo](http://activemq.apache.o
 
 ## Moquette
 
-[ Moquette](http://code.google.com/p/moquette-mqtt/ ) is a Java MQTT broker based on an eventing model with Apache Mina.
+[ Moquette](https://github.com/andsel/moquette) is a Java MQTT broker based on an eventing model with Apache Mina.
 
 ## HiveMQ
 
