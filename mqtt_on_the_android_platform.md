@@ -26,6 +26,8 @@ There are a range of great articles and samples showing how MQTT can be used on 
 
 *  [mqttitude](https://github.com/binarybucks/mqttitude) - A Google Latitude replacement based on MQTT
 
+* [MQTT Widget](https://play.google.com/store/apps/details?id=com.gmail.nubbsoft.mw) - A free, useful android app that provides you with an unlimited number of fully configurable widgets [buttons,sliders, setpoints, Strings, etc.] and hence a configurable GUI for interacting with a MQTT broker.
+
 There are also some good write-ups out there about __reasons__ to use MQTT on mobile platforms:
 
 *  [Power profiling MQTT on Android](http://stephendnicholas.com/archives/219)
