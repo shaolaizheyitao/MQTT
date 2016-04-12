@@ -24,4 +24,5 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [mqttorg](http://twitter.com/mqttorg) - the community Twitter ID
 *  [m2mqtt](http://twitter.com/m2mqtt) - M2Mqtt project Twitter ID
 *  [gnatmq](http://twitter.com/gnatmq) - GnatMQ broker project Twitter ID
-*  [mqtt_spy](http://twitter.com/mqtt_spy) - Twitter account for the [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) project 
+*  [mqtt_spy](http://twitter.com/mqtt_spy) - Twitter account for the [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) project
+*  [vernemq](http://twitter.com/vernemq) - VerneMQ broker Twitter ID 
