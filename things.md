@@ -6,6 +6,8 @@ Here are some companies / devices we know about:
 
 *  [Consert](http://www.consert.com) - Toshiba Consert smart grid solutions
 
+* [Libelium>Meshlium](http://www.libelium.com/products/meshlium/) - Libelium, specifically Meshlium uses MQTT natively to communicate from the field.
+
 *  [Eurotech](http://www.eurotech.com) - SCADA, monitoring, controllers, etc
 
 *  [Cell Labs](http://www.celllabs.com/) - Automated Meter Reading
