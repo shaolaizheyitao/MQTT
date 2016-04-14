@@ -8,6 +8,7 @@
 [//]: # (*  [Getting started with Mosquitto on Ubuntu](http://michaelconnors.net/article/462/hello-mqtt))
 
 *  [Getting Started with MQTT](http://nathanborror.tumblr.com/post/31046947556/mqtt) from 2013
+
 ## Installation
 
 Mosquitto is available at [http://mosquitto.org/download](http://mosquitto.org/download) and can also be installed on recent versions of Ubuntu from the normal package repository. The latest version is always available from the Mosquitto PPA.
