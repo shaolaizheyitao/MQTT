@@ -141,6 +141,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [KittyHawkMQ] (http://www.kittyhawkmq.com/)
 
+*  [StriderMqtt] (https://github.com/ericvoid/StriderMqtt)
+
 ####Objective-C
 
 *  [mqttIO-objC](https://github.com/m2mIO/mqttIO-objC)
