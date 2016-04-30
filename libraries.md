@@ -145,11 +145,11 @@ Check with the provider for the current status of your preferred language implem
 
 ####Objective-C
 
-*  [mqttIO-objC](https://github.com/m2mIO/mqttIO-objC)
+*  [mqttIO-objC](https://github.com/GrayWang/mqttIO-objC)
 
-*  [libmosquitto](https://mosquitto.org) - via wrappers ([example](https///github.com/njh/marquette))
+*  [libmosquitto](https://mosquitto.org) - via wrappers ([example](https:///github.com/njh/marquette))
 
-*  [MQTTKit](https://github.com/jmesnil/MQTTKit) ([sample app](https///github.com/jmesnil/MQTTExample))
+*  [MQTTKit](https://github.com/jmesnil/MQTTKit) ([sample app](https:///github.com/jmesnil/MQTTExample))
 
 *  ["MA9B" zip of 1/2 dozen mobile clients source code including Objective-C](http://www-933.ibm.com/support/fixcentral/swg/selectFix?product=ibm%2FWebSphere%2FWebSphere+MQ&fixids=1.0.0.1-WS-MQCP-MA9B&source=dbluesearch&function=fixId&parent=ibm/WebSphere)
 
