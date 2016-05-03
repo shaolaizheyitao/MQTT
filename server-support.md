@@ -15,7 +15,7 @@ Server                                                                          
 [RabbitMQ](http://www.rabbitmq.com/blog/2012/09/12/mqtt-adapter/)                 | ✔     | ✔     | ✘     | ✔    | ✘                         | ✘                        | ✔   | ✔                                    | ?       | ?          | ?             | 
 [Solace](http://dev.solacesystems.com/tech)                                       | ✔     | ✔     | ✘     | ✔    | §                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✘             | 
 [MQTT.js](https://github.com/mqttjs/MQTT.js)                                      | ✔     | ✔     | ✔     | §    | ✘                         | ✘                        | ✔   | ✔                                    | ✘       | ✔          | ✘             | 
-[moquette](http://code.google.com/p/moquette-mqtt/)                               | ✔     | ✔     | ✘     | ?    | ?                         | ?                        | ?   | ?                                    | ✘       | ✘          | ✘             | 
+[moquette](https://github.com/andsel/moquette)                               | ✔     | ✔     | ✔     | ✔    | ?                         | ?                        | ✔   | ?                                    | rm       | ✔          | ✘             | 
 [mosca](mosca)                                                                    | ✔     | ✔     | ✘     | ✔    | ?                         | ?                        | ?   | ?                                    | ✘       | ✔          | ✘             | 
 [IBM MessageSight](http://www-03.ibm.com/software/products/en/messagesight/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | §       | ✔          | ✘             |
 [2lemetry](http://2lemetry.com/platform/)                                         | ✔     | ✔     | ✔     | ✔    | ✔                         | §                        | ✔   | ✔                                    | ✔       | ✔          | ✘             |
@@ -25,7 +25,7 @@ Server                                                                          
 [VerneMQ](https://verne.mq)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [emqttd](http://emqtt.io)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ?                                    | ✔       | ✔          | ✔             | 
 
-Key: ✔ supported ✘ not supported ? unknown § see limitations
+Key: ✔ supported ✘ not supported ? unknown § see limitations rm roadmap
 # Limitations
 
 
