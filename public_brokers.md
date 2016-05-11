@@ -58,10 +58,10 @@ _info_ | requires signup/username and password, [pricing](http://www.cloudmqtt.c
 
 field | value
 ------|------
-_address_ | `mq.thingmq.com` 
+_address_ | `mqtt.simpleml.com` 
 _port_ | `1883` (MQTT), `8883` (MQTT+SSL), `80` (REST), `80` (WebSockets), `5683` (CoAP)
-_type_ | ThingMQ
-_info_ | Free shared instance, [documentation](http://thingmq.com/#docs) 
+_type_ | SimpleML
+_info_ | Free MQTT service to evaluate Machine Learning models, [documentation](http://simpleml.com) 
 ***
 
 field | value
