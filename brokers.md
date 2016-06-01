@@ -9,3 +9,4 @@
 - [Solace] (http://dev.solacesystems.com)
 - [CloudMQTT] (https://www.cloudmqtt.com)
 - [emqttd] (https://github.com/emqtt/emqttd)
+- [Wave] (https://github.com/gbour/wave)
