@@ -190,6 +190,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [REXX MQTT](https://github.com/DougieLawson/REXX_MQTT)
 
+####Prolog
+
+*  [MQTT Pack](https://github.com/olsky/swi-mqtt-pack) - Mosquitto library as a SWI-Prolog pack
+
 ####Ruby
 
 *  [ruby-mqtt](https://github.com/njh/ruby-mqtt)
