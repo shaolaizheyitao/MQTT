@@ -64,9 +64,3 @@ _type_ | SimpleML
 _info_ | Free MQTT service to evaluate Machine Learning models, [documentation](http://simpleml.com) 
 ***
 
-field | value
-------|------
-_address_ | `mqtt.kgbvax.net` 
-_port_ | `1883` (MQTT)
-_type_ | mosquitto
-_info_ | Free shared instance, currently supports persistence
