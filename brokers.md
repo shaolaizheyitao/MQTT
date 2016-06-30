@@ -11,3 +11,4 @@
 - [emqttd] (https://github.com/emqtt/emqttd)
 - [Wave] (https://github.com/gbour/wave)
 - [vertx-mqtt-broker] (https://github.com/GruppoFilippetti/vertx-mqtt-broker)
+- [JoramMQ] (http://www.scalagent.com/en/jorammq-33/products/overview)
