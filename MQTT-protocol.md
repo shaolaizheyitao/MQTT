@@ -1,9 +1,13 @@
 # MQTT protocol
 
 ## Specification
-The current formal protocol specification can be found at:
+The current formal MQTT protocol specification can be found at:
 
 *  [MQTT v3.1.1 specification](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html)
+
+The current MQTT-SN specification from IBM can be found at:
+
+* [MQTT-SN v1.2 specification](http://mqtt.org/new/wp-content/uploads/2009/06/MQTT-SN_spec_v1.2.pdf)
 
 ## Clarifications
 
