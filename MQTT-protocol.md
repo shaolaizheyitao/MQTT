@@ -57,9 +57,9 @@ Ideas (and reasons for why they may be required) are being collected here:
 
 *  [Extended CONNACK codes](Extended CONNACK codes)
 
-*  [Registered topics like MQTT-S](Registered topics like MQTT-S)
+*  [Registered topics like MQTT-SN](https://github.com/mqtt/mqtt.github.io/wiki/registered_topics_like_mqtt_sn)
 
-*  [MQTT for Centralised Data Collection](http://mqtt.org/wiki/lib/exe/fetch.php/cloud.pdf )
+*  [MQTT for Centralised Data Collection](http://mqtt.org/wiki/lib/exe/fetch.php/cloud.pdf)
 
 *  [Time To Live for retained message](Time To Live for retained message)
 ## Items fixed in the updated OASIS spec
