@@ -1,1 +1,0 @@
-MQTT-S has the ability to register topic strings for later use. This means the complete topic string does not need to be sent for each PUBLISH message, reducing packet size. This would be a nice feature for MQTT as well.
