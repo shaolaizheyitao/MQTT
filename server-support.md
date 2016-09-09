@@ -23,7 +23,7 @@ Server                                                                          
 [JoramMQ](http://mqtt.jorammq.com)                                                | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [ThingMQ](https://thingmq.com)                                                    | ✔     | ✔     | ✔     | ✔    | ✔                         | ✘                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [VerneMQ](https://verne.mq)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
-[emqttd](http://emqtt.io)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ?                                    | ✔       | ✔          | ✔             | 
+[emqttd](http://emqtt.io)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [HBMQTT](https://github.com/beerfactory/hbmqtt)                                   | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | ✘       | ✔          | ✔             | 
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations rm roadmap
