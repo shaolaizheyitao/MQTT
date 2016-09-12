@@ -15,7 +15,7 @@ As questions arise around particular aspects of the specification, we are collec
 
 *  [Topic format](Topic format)
 
-*  [Security considerations](http://www.hivemq.com/blog/introducing-the-mqtt-security-fundamentals)
+*  [Security considerations](http://www.hivemq.com/mqtt-security-fundamentals/)
 
 *  [Are topics dynamic](Are topics dynamic)?
 
