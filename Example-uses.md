@@ -20,7 +20,7 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 *  [Android/TV/Burglar detection system](http://www.hardill.me.uk/wordpress/?p=204)
 *  [MQTT<>LLAP bridge example](https///github.com/dpslwk/OpenKontrol-Gateway) for the [ Ciseco OpenKontrol Gateway](http://shop.ciseco.co.uk/openkontrol-gateway-starter/ ) 
 *  [WarmDirt](http://www.spudcentral.com/potd/120318.html) project to control soil temperature for plants (like potatoes!)
-*  [homA](https///github.com/binarybucks/homA) - An extensible framework for the smart home
+*  [homA](https://github.com/binarybucks/homA) - An extensible framework for the smart home
 
 ## University / Research
 *  [Southampton University LEGO microscope controller](http://eprints.soton.ac.uk/45432/)
