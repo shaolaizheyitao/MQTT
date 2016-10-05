@@ -178,7 +178,7 @@ Check with the provider for the current status of your preferred language implem
 
 ####Python
 
-*  [Eclipse Paho Python](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.python.git/) - originally the mosquitto Python client
+*  [Eclipse Paho Python](https://github.com/eclipse/paho.mqtt.python) - originally the mosquitto Python client
 
 *  [nyamuk](https://github.com/iwanbk/nyamuk)
 
