@@ -24,6 +24,10 @@ The Telemetry MQTT feature is built-in optionally licensed feature in
 
 The [ Eclipse Paho](http://www.eclipse.org/paho/ ) project hosts an instance of the mosquitto broker as a public test sandbox for the [Machine-to-Machine Industry Working Group](http://m2m.eclipse.org/) ([more information](public_brokers)).
 
+## Emitter 
+
+[Emitter](https://emitter.io) is clustered and open-source MQTT broker, running on .NET Core platform and using LibUV under the hood to handle the networking connectivity. It proposes several additional features on top of a traditional MQTT broker, as it includes custom per-topic security and shared-nothing scalable architecture which helps you avoid single points of failure. Full source-code available on [GitHub](https://github.com/emitter-io/emitter).
+
 ## Eurotech Everywhere Device Cloud
 
 [Eurotech Everywhere Device Cloud](http://www.eurotech.com/en/solutions/device+to+cloud/mqtt+protocol) is a cloud-based service provided by [Eurotech](http://www.eurotech.com).
