@@ -34,11 +34,11 @@ If you have a good example or know of some online information which is not repre
 *  [Coding ideas, wanted applications, bounties, etc](coding_bounties)
 
 ## Documentation & Reference
-*  [Questions](Questions)
-*  [Technical articles](Technical articles)
+*  [Questions](questions)
+*  [Technical articles](technical_articles)
 *  [Blog post](blog_posts) and podcasts etc
-*  [Useful presentations](Useful presentations)
-*  [Server support](Server support)
+*  [Useful presentations](useful_presentations)
+*  [Server support](server-support)
 
 Some links to articles and tutorials can be found via the legacy [Documentation](http://mqtt.org/documentation) page.
 -- *FIXME* these should move into the [technical articles](technical articles) and [blog posts](blog posts) pages
