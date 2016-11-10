@@ -62,5 +62,15 @@ _address_ | `mqtt.simpleml.com`
 _port_ | `1883` (MQTT), `8883` (MQTT+SSL), `80` (REST), `80` (WebSockets), `5683` (CoAP)
 _type_ | SimpleML
 _info_ | Free MQTT service to evaluate Machine Learning models, [documentation](http://simpleml.com) 
+
 ***
 
+
+field | value
+------|------
+_address_ | `mqtt.dioty.co` 
+_port_ | `1883` (MQTT), `8883` (MQTT+SSL), `8080` (WebSockets), `8880` (WebSockets+SSL)
+_type_ | `mosca`
+_info_ | Free - requires signup/username and password, [documentation](http://www.dioty.co), includes [mobile IoT app](http://www.dioty.co/mobile) (iOS and Android)
+
+***
