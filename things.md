@@ -20,7 +20,7 @@ Here are some companies / devices we know about:
 
 *  [Elecsys](http://www.elecsyscorp.com/scada/mqtt.html) - Elecsys Industrial Communications Gateway and Remote Monitors
 
-*  [Flukso](https///www.flukso.net/) - Fluksometer, an electricity metering device with native MQTT support
+*  [Flukso](https://www.flukso.net/) - Fluksometer, an electricity metering device with native MQTT support
 
 * [ReMake](http://www.remakeelectric.com/) - ReMake Electric electricity metering systems publish all readings to the on-device MQTT broker.
 
