@@ -7,7 +7,7 @@ If you came across an interesting blog post please add it here.
 
 *  [Using MQTT as a GCM replacement for android push notifications](http://ollieparsley.com/2013/05/20/using-mqtt-as-a-gcm-replacement-for-android-push-notifications/)
 
-*  [MQTT Caller Display](http://chemicaloliver.net/electronics/mqtt-caller-display-hacking-the-bt-caller-display-50-serial-port/) - Hacking the BT Caller Display 50 Serial Port
+*  [MQTT Caller Display](https://chemicaloliver.net/technology/2011/10/02/mqtt-caller-display-hacking-the-bt-caller-display-50-serial-port/) - Hacking the BT Caller Display 50 Serial Port
 
 *  [Node.js, MQTT and Websockets](http://chemicaloliver.net/internet/node-js-mqtt-and-websockets/)
 
