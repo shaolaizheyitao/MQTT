@@ -18,4 +18,4 @@
 *  [M2M for Java Developers - MQTT with Eclipse Paho](http://www.slideshare.net/dobermai/m2m-for-java-developers-mqtt-with-eclipse-paho) Dominik Obermaier at Eclipse Democamp Stuttgart 2013
 ## Videos
 
-*  [Exposing MQTT to the REST of us](https///www.youtube.com/watch?v=miorQKR2ohs) by Matteo Collina at EclipseCon France 2013
+*  [Exposing MQTT to the REST of us](https://www.youtube.com/watch?v=miorQKR2ohs) by Matteo Collina at EclipseCon France 2013
