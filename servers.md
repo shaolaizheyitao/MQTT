@@ -34,11 +34,15 @@ The [ Eclipse Paho](http://www.eclipse.org/paho/ ) project hosts an instance of 
 
 ## emqttd
 
-[emqttd](https://github.com/emqtt/emqttd) is a massively scalable and clusterable MQTT V3.1/V3.1.1 broker written in Erlang/OTP. Latest release(0.17) of emqttd broker is scaling to 1.3 million MQTT connections on a 12 Core, 32G CentOS server.
+[emqttd](https://github.com/emqtt/emqttd) is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP.
 
-emqttd is fully open source and licensed under the Apache Version 2.0. emqttd implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports WebSocket, STOMP, SockJS, CoAP and MQTT-SN at the same time.
+emqttd is fully open source and licensed under the Apache Version 2.0. EMQ implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports MQTT-SN, CoAP, WebSocket, STOMP and SockJS at the same time.
 
-The emqttd project provides a scalable, distributed, extensible open-source MQTT broker for IoT, M2M and Mobile applications that hope to handle millions of concurrent MQTT clients.
+emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT, M2M, Smart Hardware and Mobile Messaging Applications.
+
+The 1.0 release of the emqttd broker has scaled to 1.3 million concurrent MQTT connections on a 12 Core, 32G CentOS server.
+
+Please visit [emqtt.io](http://emqtt.io/) for more service. Follow us on Twitter: [@emqtt](https://twitter.com/emqtt)
 
 ## Xively
 
@@ -122,5 +126,4 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 ## vertx-mqtt-broker
 [vertx-mqtt-broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) is an open-source implementation of MQTT server. It implements protocol versions 3.1.1 and 3.1, supports QoS 2, and uses OAuth2 for autentication.
 It uses [vert.x](http://vertx.io/) as library for tcp managemnet, non-blocking / actor-model, clustering and auth plugin system.
-
 
