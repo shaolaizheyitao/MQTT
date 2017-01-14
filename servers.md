@@ -127,4 +127,4 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 [vertx-mqtt-broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) is an open-source implementation of MQTT server. It implements protocol versions 3.1.1 and 3.1, supports QoS 2, and uses OAuth2 for autentication.
 It uses [vert.x](http://vertx.io/) as library for tcp managemnet, non-blocking / actor-model, clustering and auth plugin system.
 
-这个页面是可以编辑的呀
+
