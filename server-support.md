@@ -25,6 +25,7 @@ Server                                                                          
 [VerneMQ](https://verne.mq)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [emqttd](http://emqtt.io)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [HBMQTT](https://github.com/beerfactory/hbmqtt)                                   | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | ✘       | ✔          | ✔             | 
+[Mongoose](https://github.com/cesanta/mongoose)                                   | ✔     | ✔     | ?     | ?    | ?                         | ?                        | ?   | ?                                    | ?       | ?          | ?             | 
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap (planned)
 # Limitations
