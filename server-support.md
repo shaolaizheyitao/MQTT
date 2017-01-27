@@ -31,7 +31,7 @@ Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap
 # Limitations
 
 
-*  Both MQTT.js and my-Channels Nirvana Messaging will accept connections with username and password supplied, but do not actually authenticate the connection
+*  MQTT.js  will accept connections with username and password supplied, but do not actually authenticate the connection
 
 * IBM MessageSight supports a High-Availability mode which provides the redundancy advantage of a cluster, but does not support any sort of load balancing for MQTT.
 
@@ -40,6 +40,8 @@ Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap
 * Solace does provide a proprietary bridge solution between brokers.
 
 * mosquitto clustering is achieved on backend level (redis, amqp, etc).
+
+* Software AG Universal Messaging provides Active/Active clustering (over a proprietary protocol) and bridging (over a proprietary protocol).
 
 Potentially should add columns to track: LWT; additional protocols (WMQ, AMQP, MQTTs etc)
 
