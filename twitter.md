@@ -17,6 +17,8 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [francoisvdm](https://twitter.com/francoisvdmerwe) - Francois van der Merwe
 *  [maiorfi](http://twitter.com/maiorfi) - Lorenzo Maiorfi (XBee Mqtt GW, ZWave Mqtt GW, BLE Mqtt GW)
 *  [kamilfb84](http://twitter.com/kamilfb84) - Kamil Baczkowicz ([mqtt-spy](http://kamilfb.github.io/mqtt-spy/), IECC Scalable)
+*  [krital](http://twitter.com/krital) - Alex Kritikos
+
 
 ## Projects and sites
 
