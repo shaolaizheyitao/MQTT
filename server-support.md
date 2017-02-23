@@ -26,7 +26,7 @@ Server                                                                          
 [emqttd](http://emqtt.io)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [HBMQTT](https://github.com/beerfactory/hbmqtt)                                   | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | ✘       | ✔          | ✔             | 
 [Mongoose](https://github.com/cesanta/mongoose)                                   | ✔     | ✔     | ?     | ?    | ?                         | ?                        | ?   | ?                                    | ?       | ?          | ?             | 
-[emitter](https://github.com/emitter-io/emitter)                                   | ?     | ?     | ?     | ?    | ?                         | ?                        | ?   | ?                                    | ✔       | ✔          | ?             | 
+[emitter](https://github.com/emitter-io/emitter)                                   | ✔     | §     | ✘     | ✔    | ✘                         | ✘                        | ✔   | ✔                                    | ✔       | ✔          | ✘             | 
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap (planned)
 # Limitations
