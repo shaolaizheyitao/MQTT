@@ -16,6 +16,10 @@ The Telemetry MQTT feature is built-in optionally licensed feature in
 [ Really Small Message Broker](http://www.alphaworks.ibm.com/tech/rsmb )\\
 75KB MQTT broker runtime free download as binaries from IBM alphaWorks, RSMB is a C implementation of a tiny MQTT server suitable for development, embedded systems, concentrators or small to medium sized deployments. It provides complete MQTT v3.1 support, bridging, and a C client API.
 
+## Moquette
+
+[ Moquette](https://github.com/andsel/moquette) is a Java MQTT broker based on an eventing model with Netty.
+
 ## Mosquitto
 
 [ Mosquitto](http://mosquitto.org ) is an Open Source MQTT server with C and C++ client libraries. A python client library is cared for under Eclipse Paho. For JavaScript, Mosquitto recommends the Eclipse Paho Javascript client. A public, hosted test server is also available ([more information](public_brokers))
@@ -126,5 +130,4 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 ## vertx-mqtt-broker
 [vertx-mqtt-broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) is an open-source implementation of MQTT server. It implements protocol versions 3.1.1 and 3.1, supports QoS 2, and uses OAuth2 for autentication.
 It uses [vert.x](http://vertx.io/) as library for tcp managemnet, non-blocking / actor-model, clustering and auth plugin system.
-
 
