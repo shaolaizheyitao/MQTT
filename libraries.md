@@ -7,7 +7,7 @@ not include authentication, etc.
 
 Check with the provider for the current status of your preferred language implementation; and remember to respect the licenses that different implementations are published under.
 
-####Device-Specific
+#### Device-Specific
 
 *  [Arduino](https://github.com/knolleary/pubsubclient) ([more information](http://pubsubclient.knolleary.net/))
 
@@ -30,15 +30,15 @@ Check with the provider for the current status of your preferred language implem
 
 (see also [devices](things) page for more on hardware with built-in support)
 
-####Actionscript
+#### Actionscript
 
 *  [as3MQTT](https://github.com/yangboz/as3MQTT)
 
-####Bash
+#### Bash
 
 * see [Shell Script](#shell-script), below
 
-####C
+#### C
 
 *  [Eclipse Paho C] (https://www.eclipse.org/paho/clients/c/)
 
@@ -50,7 +50,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - Embedded C client
 
-####C++
+#### C++
 
 *  [Eclipse Paho C++] (https://www.eclipse.org/paho/clients/cpp/)
 
@@ -58,21 +58,21 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Eclipse Paho Embedded C++] (https://www.eclipse.org/paho/clients/c/embedded/)
 
-####Clojure
+#### Clojure
 
 *  [Machine Head](http://clojuremqtt.info)
 
 *  [Clojure MQTT Codec for Netty](https://github.com/xively/clj-mqtt/)
 
-####Dart
+#### Dart
 
 *  [mqtt.dart](http://pub.dartlang.org/packages/mqtt)
 
-####Delphi
+#### Delphi
 
 *  [TMQTTClient](http://jamiei.com/code/TMQTTClient.zip) ([more information](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/))
 
-####Erlang
+#### Erlang
 
 *  [erlmqtt](https://github.com/squaremo/erlmqtt)
 
@@ -82,19 +82,19 @@ Check with the provider for the current status of your preferred language implem
 
 *  [my-mqtt4erl](http://code.google.com/p/my-mqtt4erl/) - updated fork of mqtt4erl
 
-####Elixir
+#### Elixir
 
 *  [hulaaki](https://github.com/suvash/hulaaki)
 
-####Go
+#### Go
 
 *  [Eclipse Paho Go](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.golang.git/)
 
-####Haskell
+#### Haskell
 
 * [mqtt-hs](http://hackage.haskell.org/package/mqtt-hs)
 
-####Java
+#### Java
 
 *  [Eclipse Paho Java](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.java.git/)
 
@@ -110,7 +110,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [IA92](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24006006&loc=en_US&cs=utf-8&lang=en) - *deprecated* IBM IA92 support pack, use Eclipse Paho GUI client instead. A useful MQTT Java swing GUI for publishing & subscribing. The Eclipse Paho GUI is identical but uses newer client code
 
-####Javascript / Node.js
+#### Javascript / Node.js
 
 *  [Eclipse Paho HTML5 JavaScript over WebSocket.](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.javascript.git/)
 
@@ -122,15 +122,15 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Ascoltatori](https://github.com/mcollina/ascoltatori) - a node.js pub/sub library that allows access to Redis, AMQP, MQTT and ZeroMQ with the same API.
 
-####LotusScript
+#### LotusScript
 
 *  [MQTT From LotusScript](https://tingenek.wordpress.com/2011/11/30/mqtt-with-lotus-notes/)
 
-####Lua
+#### Lua
 
 *  [Eclipse Paho Lua](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.lua.git/)
 
-####.NET / dotNET
+#### .NET / dotNET
 
 *  [MqttDotNet](http://sourceforge.net/projects/mqttdotnet/)
 
@@ -142,7 +142,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [StriderMqtt] (https://github.com/ericvoid/StriderMqtt)
 
-####Objective-C
+#### Objective-C
 
 *  [mqttIO-objC](https://github.com/GrayWang/mqttIO-objC)
 
@@ -152,13 +152,13 @@ Check with the provider for the current status of your preferred language implem
 
 *  ["MA9B" zip of 1/2 dozen mobile clients source code including Objective-C](http://www-933.ibm.com/support/fixcentral/swg/selectFix?product=ibm%2FWebSphere%2FWebSphere+MQ&fixids=1.0.0.1-WS-MQCP-MA9B&source=dbluesearch&function=fixId&parent=ibm/WebSphere)
 
-####OCaml
+#### OCaml
 
 * [ocaml-mqtt](https://github.com/j0sh/ocaml-mqtt)
 
 * [mqtt_client](https://github.com/philtomson/mqtt_client)
 
-####Perl
+#### Perl
 
 *  [net-mqtt-perl](https://github.com/beanz/net-mqtt-perl)
 
@@ -168,7 +168,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  Net::MQTT::Simple [cpan](https://metacpan.org/pod/Net::MQTT::Simple) [github](https://github.com/Juerd/Net-MQTT-Simple)
 
-####PHP
+#### PHP
 
 *  [phpMQTT](http://github.com/bluerhinos/phpMQTT)
 
@@ -176,7 +176,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [sskaje's MQTT library](http://github.com/sskaje/mqtt)
 
-####Python
+#### Python
 
 *  [Eclipse Paho Python](https://github.com/eclipse/paho.mqtt.python) - originally the mosquitto Python client
 
@@ -186,15 +186,15 @@ Check with the provider for the current status of your preferred language implem
 
 *  [HBMQTT](https://github.com/beerfactory/hbmqtt)
 
-####REXX
+#### REXX
 
 *  [REXX MQTT](https://github.com/DougieLawson/REXX_MQTT)
 
-####Prolog
+#### Prolog
 
 *  [MQTT Pack](https://github.com/olsky/swi-mqtt-pack) - Mosquitto library as a SWI-Prolog pack
 
-####Ruby
+#### Ruby
 
 *  [ruby-mqtt](https://github.com/njh/ruby-mqtt)
 
@@ -206,14 +206,14 @@ Check with the provider for the current status of your preferred language implem
 
 * [qmqtt](https://github.com/emqtt/qmqtt) - MQTT Client for Qt
 
-####Shell Script
+#### Shell Script
 
 *  [bish-bosh](https://github.com/raphaelcohn/bish-bosh), supports bash, ash (including BusyBox), pdksh and mksh.
 
-####Swift
+#### Swift
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - An MQTT client for iOS and OS X written with Swift
 
-####Tcl
+#### Tcl
 
 *  [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt)
