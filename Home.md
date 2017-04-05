@@ -16,20 +16,20 @@ Content covers:
 If you have a good example or know of some online information which is not represented here, **please help to edit this wiki**. 
 
 ## Introduction
-* [Basic Concepts](Basic Concepts)
-* [Design Principles](Design Principles)
-* [Example Uses](Example Uses)
+* [Basic Concepts](Basic-Concepts)
+* [Design Principles](Design-Principles)
+* [Example Uses](Example-Uses)
 * [Terminology and acronyms](Terms-and-acronyms)
 * [Background and History](history)
 
 ## The MQTT Protocol
-*  [MQTT Protocol](MQTT Protocol)
+*  [MQTT Protocol](MQTT-Protocol)
 *  [Conventions](Conventions) (generally agreed, but not formalised)
-*  [URI Scheme](URI Scheme)
+*  [URI Scheme](URI-Scheme)
 
 ## Developing Applications
-*  [Setup and testing](Setup and testing) with [brokers](brokers)
-*  [APIs and examples](APIs and examples) (see also the [Libraries](libraries) page)
+*  [Setup and testing](Setup-and-testing) with [brokers](brokers)
+*  [APIs and examples](APIs-and-examples) (see also the [Libraries](libraries) page)
 *  [Techniques](Techniques) i.e. "how do I...?"
 *  [Coding ideas, wanted applications, bounties, etc](coding_bounties)
 
@@ -49,9 +49,9 @@ The legacy [Frequently Asked Questions](http://mqtt.org/faq) page also has some 
 ## Community
 *  [Get Involved](http://mqtt.org/get-involved) has links to the mailing list, IRC, etc.
 *  [Twitter](Twitter) a list of the Twitter IDs of people involved with MQTT (add yourself!)
-*  [MQTT at Eclipse](MQTT at Eclipse) information on how MQTT relates to [The Eclipse Foundation](http://www.eclipse.org) with links to relevant projects.
-*  [MQTT at OASIS](MQTT at OASIS) information on standardisation of the MQTT protocol at the standards body [OASIS](https://www.oasis-open.org/).
+*  [MQTT at Eclipse](MQTT-at-Eclipse) information on how MQTT relates to [The Eclipse Foundation](http://www.eclipse.org) with links to relevant projects.
+*  [MQTT at OASIS](MQTT-at-OASIS) information on standardisation of the MQTT protocol at the standards body [OASIS](https://www.oasis-open.org/).
 
 ## Other Content
-*  [Media coverage](Media coverage)
+*  [Media coverage](Media-coverage)
 *  [Miscellaneous](Miscellaneous) anything that doesn't seem to fit elsewhere!
