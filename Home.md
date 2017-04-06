@@ -5,7 +5,7 @@
 > Some of the links are placeholders for information we want to include, but that no-one has added yet. This is a constant work-in-progress - together we can make it better!
 ***
 
-Our goal is to collect useful content to help users and developers navigate around the MQTT community and understand how best to make use of the technology. Let's bring together documentation, code snippets, and links to good sources of information. Feel free to contribute!
+> Our goal is to collect useful content to help users and developers navigate around the MQTT community and understand how best to make use of the technology. Let's bring together documentation, code snippets, and links to good sources of information. Feel free to contribute!
 
 Content covers:
 
