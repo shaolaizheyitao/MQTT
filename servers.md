@@ -52,11 +52,6 @@ Please visit [emqtt.io](http://emqtt.io/) for more service. Follow us on Twitter
 
 The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly known as Pachube, provides a data cloud for the Internet of Things, with MQTT support in beta. This is not a generic MQTT broker implementation; it uses MQTT as a transport for publishing and subscribing to your already existing data feeds ([more information](mqtt_and_pachube)).
 
-## Moquette
-
-[ Moquette](https://github.com/andsel/moquette) is a Java MQTT broker based on an eventing model with Netty.
-
-
 ## Yunba.io
 
 [ Yunba](http://yunba.io/) is a backend cloud platform that provides real-time message dispatch service to mobile applications and devices and uses MQTT as a transport protocol, The services include bi-directional push for Instant-Messaging; real-time analyzing; real-time online monitoring.
