@@ -112,7 +112,7 @@ Check with the provider for the current status of your preferred language implem
 
 #### Javascript / Node.js
 
-*  [Eclipse Paho HTML5 JavaScript over WebSocket.](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.javascript.git/)
+*  [Eclipse Paho HTML5 JavaScript over WebSocket.](https://github.com/eclipse/paho.mqtt.javascript)
 
 *  [mqtt.js](https://github.com/adamvr/MQTT.js)
 
