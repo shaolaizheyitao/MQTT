@@ -138,7 +138,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [M2MQTT](https://github.com/eclipse/paho.mqtt.m2mqtt)
 
-*  [KittyHawkMQ] (http://www.kittyhawkmq.com/)
+*  [KittyHawkMQ] (https://github.com/mFourLabs/KittyHawkMQ)
 
 *  [StriderMqtt] (https://github.com/ericvoid/StriderMqtt)
 
