@@ -6,4 +6,4 @@ There is a very nice overview of MQTT available here: [What is MQTT and how does
 
 ## PubSub Messaging
 
-Some useful information on topics can be found at [Topic semantics and usage](http://publib.boulder.ibm.com/infocenter/wmbhelp/v6r1m0/index.jsp?topic=/com.ibm.etools.mft.doc/aq13300_.htm).
+Some useful information on topics can be found at [Topic semantics and usage](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/errata01/os/mqtt-v3.1.1-errata01-os-complete.html#_Toc442180919).
