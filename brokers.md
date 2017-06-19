@@ -2,6 +2,7 @@
 - [ActiveMQ](http://activemq.apache.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Mosquitto](http://mosquitto.org/)
+- [IBM MessageSight](http://www-03.ibm.com/software/products/en/iot-messagesight)
 - [Mosca](http://www.mosca.io/)
 - [MQTT Dashboard](http://mqttdashboard.com/dashboard)
 - [Eclipse IoT](http://iot.eclipse.org/)
