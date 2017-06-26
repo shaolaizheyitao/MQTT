@@ -132,6 +132,8 @@ Check with the provider for the current status of your preferred language implem
 
 #### .NET / dotNET
 
+*  [Paho.MqttDotnet](https://github.com/xljiulang/Paho.MqttDotnet/)
+
 *  [MqttDotNet](http://sourceforge.net/projects/mqttdotnet/)
 
 *  [nMQTT](https://github.com/markallanson/nmqtt)
