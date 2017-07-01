@@ -110,7 +110,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [IA92](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24006006&loc=en_US&cs=utf-8&lang=en) - *deprecated* IBM IA92 support pack, use Eclipse Paho GUI client instead. A useful MQTT Java swing GUI for publishing & subscribing. The Eclipse Paho GUI is identical but uses newer client code
 
-* [vertx-mqtt-client](https://github.com/vert-x3/vertx-mqtt-client) vertx-mqtt-client is an open-source, high performance, non-blocking MQTT client built as a part of vert.x's jvm toolkit.
+* [vertx-mqtt-client](https://github.com/vert-x3/vertx-mqtt-client) is an open-source, high performance, non-blocking MQTT client built as a part of vert.x's jvm toolkit.
 
 #### Javascript / Node.js
 
