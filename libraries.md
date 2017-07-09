@@ -112,6 +112,8 @@ Check with the provider for the current status of your preferred language implem
 
 * [vertx-mqtt-client](https://github.com/vert-x3/vertx-mqtt-client) is an open-source, high performance, non-blocking MQTT client built as a part of vert.x's jvm toolkit.
 
+* [Qatja](https://github.com/Qatja) is a Java client library for MQTT 3.1.1 with specific implementation for Android and Processing
+
 #### Javascript / Node.js
 
 *  [Eclipse Paho HTML5 JavaScript over WebSocket.](https://github.com/eclipse/paho.mqtt.javascript)
