@@ -1,4 +1,4 @@
-# Welcome to the MQTT community wikijjj
+# Welcome to the MQTT community 
 
 > Currently, content here is in transition from the "old" mqtt.org site and there are many broken links due to the way Github and Dokuwikis differ - find a full list of pages on the [**Pages**](https://github.com/mqtt/mqtt.github.io/wiki/_pages) sidebar.
 
