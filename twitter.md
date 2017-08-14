@@ -18,6 +18,7 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [maiorfi](http://twitter.com/maiorfi) - Lorenzo Maiorfi (XBee Mqtt GW, ZWave Mqtt GW, BLE Mqtt GW)
 *  [kamilfb84](http://twitter.com/kamilfb84) - Kamil Baczkowicz ([mqtt-spy](http://kamilfb.github.io/mqtt-spy/), IECC Scalable)
 *  [krital](http://twitter.com/krital) - Alex Kritikos
+*  [wutu](https://twitter.com/wutu_cz) - Marek Kail
 
 
 ## Projects and sites
@@ -27,4 +28,5 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [m2mqtt](http://twitter.com/m2mqtt) - M2Mqtt project Twitter ID
 *  [gnatmq](http://twitter.com/gnatmq) - GnatMQ broker project Twitter ID
 *  [mqtt_spy](http://twitter.com/mqtt_spy) - Twitter account for the [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) project
-*  [vernemq](http://twitter.com/vernemq) - VerneMQ broker Twitter ID 
+*  [vernemq](http://twitter.com/vernemq) - VerneMQ broker Twitter ID
+*  [pimatic-mqtt](https://pimatic.org/plugins/pimatic-mqtt/) - MQTT plugin for Pimatic (https://github.com/wutu/pimatic-mqtt)
