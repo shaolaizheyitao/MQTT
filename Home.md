@@ -51,6 +51,7 @@ The legacy [Frequently Asked Questions](http://mqtt.org/faq) page also has some 
 *  [Twitter](Twitter) a list of the Twitter IDs of people involved with MQTT (add yourself!)
 *  [MQTT at Eclipse](MQTT-at-Eclipse) information on how MQTT relates to [The Eclipse Foundation](http://www.eclipse.org) with links to relevant projects.
 *  [MQTT at OASIS](MQTT-at-OASIS) information on standardisation of the MQTT protocol at the standards body [OASIS](https://www.oasis-open.org/).
+*  [MQTT community on Gitter](https://gitter.im/MQTT_Lovers) Gitter is a nice place for developers to come up with their suggestions, problems, and solutions. 
 
 ## Other Content
 *  [Media coverage](Media-coverage)
