@@ -84,7 +84,9 @@ Check with the provider for the current status of your preferred language implem
 
 #### Elixir
 
-*  [hulaaki](https://github.com/suvash/hulaaki)
+*  [hulaaki](https://github.com/suvash/hulaaki) - An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).
+
+*  [Exmqttc](https://github.com/timbuchwaldt/exmqttc) - Elixir wrapper for the emqttc library.
 
 #### Go
 
