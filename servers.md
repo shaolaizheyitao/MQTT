@@ -1,5 +1,29 @@
 # Servers/Brokers
 
+## MQTTnet
+[MQTTnet](https://github.com/chkr1011/MQTTnet/tree/master) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
+
+### Features
+* Performance optimized (publishing ~18.000 messages per second on local machine)
+* Async support
+* TLS 1.2 support for client and server (but not UWP servers)
+* Extensible communication channels (i.e. In-Memory, TCP, TCP+TLS, WS)
+* Interfaces included for mocking and testing
+* Lightweight (only the low level implementation of MQTT, no overhead)
+* Access to internal trace messages
+* Unit tested (55+ tests)
+
+### Supported frameworks
+* .NET Standard 1.3+
+* .NET Core 1.1+
+* .NET Core App 1.1+
+* .NET Framework 4.5.2+ (x86, x64, AnyCPU)
+* Universal Windows (UWP) 10.0.10240+ (x86, x64, ARM, AnyCPU)
+
+### Supported MQTT versions
+* 3.1.1
+* 3.1.0
+
 ## IBM Websphere MQ Telemetry
 
 The Telemetry MQTT feature is built-in optionally licensed feature in 
