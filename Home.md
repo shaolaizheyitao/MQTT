@@ -55,4 +55,5 @@ The legacy [Frequently Asked Questions](http://mqtt.org/faq) page also has some 
 
 ## Other Content
 *  [Media coverage](Media-coverage)
+*  [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt) a curated list of links to MQTT related stuff
 *  [Miscellaneous](Miscellaneous) anything that doesn't seem to fit elsewhere!
