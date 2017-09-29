@@ -218,6 +218,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [bish-bosh](https://github.com/raphaelcohn/bish-bosh), supports bash, ash (including BusyBox), pdksh and mksh.
 
+#### Smalltalk
+
+* [MQTT client for Squeak](http://www.squeaksource.com/MQTTClient.html), for Squeak 5.1
+
 #### Swift
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - An MQTT client for iOS and OS X written with Swift
