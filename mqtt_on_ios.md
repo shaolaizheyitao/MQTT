@@ -13,3 +13,5 @@ This is working on IOS7 with ARC. It also works with TLS.
 *  [mqtt-prowl](https://github.com/jpmens/mqtt-prowl) - Subscribe to topics on an MQTT broker and notify via Prowl
 
 * [MQTT-Client-Framework](https://github.com/ckrey/MQTT-Client-Framework) a native Objective-C (works with Swift too), fully featured MQTT client for iOS, macOS and tvOS. There is a demo application [MQTTChat](https://github.com/ckrey/MQTTChat) and an [Introduction](http://www.hivemq.com/blog/mqtt-client-library-encyclopedia-mqtt-client-framework)
+
+* [MQTTInspector](http://www.hivemq.com/blog/mqtt-toolbox-mqtt-inspector) an iOS (iPhone, iPod, iPad) MQTT monitoring and testing tool
