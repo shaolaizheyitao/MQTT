@@ -83,3 +83,11 @@ _type_ | `mosquitto`
 _info_ | Free, it is mostly running for [Swifitch project](http://www.swifitch.cz), but you can use it too for testing your IoT or whatever ;), it is running on Raspberry Pi.
 
 ***
+
+field | value
+------|------
+_address_ | `mqttserver.com`
+_port_ | Non-TLS `1883`, `8000` (WebSocket), `8883` (SSL), `8443` (Secure WebSockets)
+_type_ | `Bevywise`
+_info_ | [web page](http://bevywise.com/iot-platform). Secure. Need to sign up to view your devices. Use MQTT Authentication in your devices to connect securely.
+***
