@@ -54,7 +54,7 @@ The [ Eclipse Paho](http://www.eclipse.org/paho/ ) project hosts an instance of 
 
 ## Emitter 
 
-[Emitter](https://emitter.io) is clustered and open-source MQTT broker, running on .NET Core platform and using LibUV under the hood to handle the networking connectivity. It proposes several additional features on top of a traditional MQTT broker, as it includes custom per-topic security and shared-nothing scalable architecture which helps you avoid single points of failure. Full source-code available on [GitHub](https://github.com/emitter-io/emitter).
+[Emitter](https://emitter.io) is clustered and open-source MQTT broker, written entirely in Go. It proposes several additional features on top of a traditional MQTT broker, as it includes custom per-topic security and shared-nothing scalable architecture which helps you avoid single points of failure. Full source-code available on [GitHub](https://github.com/emitter-io/emitter).
 
 ## Eurotech Everywhere Device Cloud
 
