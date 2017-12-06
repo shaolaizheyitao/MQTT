@@ -150,3 +150,10 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 [vertx-mqtt-broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) is an open-source implementation of MQTT server. It implements protocol versions 3.1.1 and 3.1, supports QoS 2, and uses OAuth2 for autentication.
 It uses [vert.x](http://vertx.io/) as library for tcp managemnet, non-blocking / actor-model, clustering and auth plugin system.
 
+## ThingScale IoT message broker
+
+[ThingScale IoT message broker](http://thingscale.io/index_en.html) is a fully-managed IoT messaging service provided by [Sensinics,LLC](http://sensinics.co.jp).
+ThingScale provides a messaging system for IoT connected devices. The API is used to retrieve events, users, devices, sessions, and channels in JSON format. ThingScale supports TLS payload encryption, scheme-less and cyclic data sampling, and trigger-based notifications. MQTT is the preferred messaging protocol.
+
+* Dev Portal(https://sensinics.atlassian.net/wiki/spaces/TD/pages/76021778/Developer+Portal)
+* API Portal(https://thingscale.docs.apiary.io/#)
