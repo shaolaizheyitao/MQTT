@@ -80,7 +80,7 @@ field | value
 _address_ | `mqtt.swifitch.cz` 
 _port_ | `1883` (MQTT)
 _type_ | `mosquitto`
-_info_ | Free, it is mostly running for [Swifitch project](http://www.swifitch.cz), but you can use it too for testing your IoT or whatever ;), it is running on Raspberry Pi.
+_info_ | Free, it is mostly running for [Swifitch project](http://www.swifitch.cz), but you can use it too for testing your IoT or whatever ;), it is running on ~~Raspberry Pi~~ profesional VPS.
 
 ***
 
