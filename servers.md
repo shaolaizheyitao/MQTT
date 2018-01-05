@@ -1,5 +1,8 @@
 # Servers/Brokers
 
+## flespi
+[flespi](https://flespi.io/mqtt) is a cloud-based MQTT broker service. High-volume targeted architecture, isolated MQTT namespace, WebSockets/SSL support, 1-click [account registration](https://flespi.io), commercial and free SLA, managed by [HTTP REST API](https://flespi.io/mqtt). See [MQTT API FAQ](https://flespi.com/mqtt-api) for more information.
+
 ## MQTTnet
 [MQTTnet](https://github.com/chkr1011/MQTTnet/tree/master) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
 
