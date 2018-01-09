@@ -40,4 +40,4 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 ## Just for Fun
 *  [Christmas lights](http://www.lauracowen.co.uk/blog/2010/02/09/electricity-monitoring-with-christmas-lights-and-arduino/)
 *  [Mind controlled taxis](http://knolleary.net/2010/04/22/how-i-got-onto-prime-time-bbc-one/)
-*  [Glowing rubber ducks](http://eightbar.co.uk/2009/03/12/the-amazing-mqtt-enabled-ducks/)
+*  [Glowing rubber ducks](https://eightbar.eu-gb.mybluemix.net/2009/03/12/the-amazing-mqtt-enabled-ducks/)
