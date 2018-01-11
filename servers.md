@@ -52,6 +52,10 @@
 * MAC 
 * Raspbian
 
+### Extendability
+
+MQTTRoute can be extended and customized to integrate to any application or to store data to any big data engine. We have rolled out a couple of open source plugins for integrating MQTTRoute to a few Big Data Stores. [Checkout the plugins at Github](https://github.com/bevywise-networks)
+
 You can [Securely host MQTTRoute](https://www.bevywise.com/blog/secure-mqtt-broker-hosting-aws/) on AWS, Google or any public cloud infrastructure. 
 
 
