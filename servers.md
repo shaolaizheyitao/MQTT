@@ -81,7 +81,7 @@ The Telemetry MQTT feature is built-in optionally licensed feature in
 
 ## Mosquitto
 
-[Mosquitto](http://mosquitto.org) is an Open Source MQTT server with C and C++ client libraries. A python client library is cared for under Eclipse Paho. For JavaScript, Mosquitto recommends the Eclipse Paho Javascript client. A public, hosted test server is also available ([more information](public_brokers))
+[Mosquitto](http://mosquitto.org) is an Open Source MQTT server. A public, hosted test server is also available ([more information](public_brokers))
 
 ## Emitter 
 
