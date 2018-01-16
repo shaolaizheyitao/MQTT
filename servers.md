@@ -115,10 +115,6 @@ The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly know
 
 [ Yunba](http://yunba.io/) is a backend cloud platform that provides real-time message dispatch service to mobile applications and devices and uses MQTT as a transport protocol, The services include bi-directional push for Instant-Messaging; real-time analyzing; real-time online monitoring.
 
-## m2m.io
-
-[ m2m.io](http://m2m.io ) is a cloud messaging service ([more information](public_brokers)).
-
 ## webMethods Nirvana Messaging
 
 [ webMethods Nirvana Messaging](http://www.my-channels.com/products/nirvana.html ) provides a messaging engine with support for many different transports. Their MQTT support is described in their [blog](http://blog.my-channels.com/2012/01/27/mqtt-support-in-nirvana-7/).
