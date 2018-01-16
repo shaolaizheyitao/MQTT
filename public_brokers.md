@@ -49,15 +49,6 @@ _info_ | [information page](http://www.mqtt-dashboard.com/info/broker), [stastis
 
 field | value
 ------|------
-_address_ | `q.m2m.io` 
-_port_ | `1883` 
-_type_ | `m2m.io`
-_info_ | requires signup/username and password, [connecting to m2m.io](http://help.m2m.io/entries/21577233-connecting-to-m2m-io)
-
-***
-
-field | value
-------|------
 _address_ | `www.cloudmqtt.com` (Note: actual host varies, see dashboard)
 _port_ | `18443`, `28443` (SSL)
 _type_ | mosquitto
