@@ -58,16 +58,6 @@ _info_ | requires signup/username and password, [pricing](http://www.cloudmqtt.c
 
 field | value
 ------|------
-_address_ | `mqtt.simpleml.com` 
-_port_ | `1883` (MQTT), `8883` (MQTT+SSL), `80` (REST), `80` (WebSockets), `5683` (CoAP)
-_type_ | SimpleML
-_info_ | Free MQTT service to evaluate Machine Learning models, [documentation](http://simpleml.com) 
-
-***
-
-
-field | value
-------|------
 _address_ | `mqtt.dioty.co` 
 _port_ | `1883` (MQTT), `8883` (MQTT+SSL), `8080` (WebSockets), `8880` (WebSockets+SSL)
 _type_ | `mosca`
