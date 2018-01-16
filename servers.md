@@ -1,5 +1,13 @@
 # Servers/Brokers
 
+## More information on brokers
+
+*  [compare the capabilities](server-support) of different brokers
+*  see some of the [public brokers](public_brokers) available for testing on the wiki
+
+***
+
+
 ## flespi
 [flespi](https://flespi.io/mqtt) is a cloud-based MQTT broker service. High-volume targeted architecture, isolated MQTT namespace, WebSockets/SSL support, 1-click [account registration](https://flespi.io), commercial and free SLA, managed by [HTTP REST API](https://flespi.io/mqtt). See [MQTT API FAQ](https://flespi.com/mqtt-api) for more information.
 
@@ -155,15 +163,6 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 ## HBMQTT
 
 [HBMQTT](https://github.com/beerfactory/hbmqtt) is an open-source implementation of MQTT broker and client. It uses Python 3.4+ asyncio library for providing a mono-threaded, non-blocking implementation of the protocol.
-
-**More information on brokers**
-
-
-*  [compare the capabilities](server-support) of different brokers
-
-*  see some of the [public brokers](public_brokers) available for testing on the wiki
-
-
 
 ## Vert.x MQTT Broker
 [Vert.x MQTT Broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) is an open-source implementation of MQTT server. It implements protocol versions 3.1.1 and 3.1, supports QoS 2, and uses OAuth2 for autentication.
