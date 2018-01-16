@@ -129,11 +129,11 @@ The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly know
 
 ## Apache ActiveMQ
 
-Details of “classic” [ ActiveMQ’s](http://activemq.apache.org/index.html ) support for MQTT are available [here](http://activemq.apache.org/mqtt.html).
+Details of “classic” [ActiveMQ’s](http://activemq.apache.org/index.html) support for MQTT are available [here](http://activemq.apache.org/mqtt.html).
 
 ## Apache ActiveMQ Artemis
 
-Artemis is a multi protocol messaging broker that supports MQTT. Details can be found [here] (http://activemq.apache.org/artemis/)
+[Artemis](http://activemq.apache.org/artemis/) is a multi protocol messaging broker that supports MQTT.
 
 ## Apache Apollo
 
