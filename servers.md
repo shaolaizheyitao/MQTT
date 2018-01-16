@@ -131,9 +131,9 @@ Details of “classic” [ActiveMQ’s](http://activemq.apache.org/index.html) s
 
 [Artemis](http://activemq.apache.org/artemis/) is a multi protocol messaging broker that supports MQTT.
 
-## Apache Apollo
+## Apache ActiveMQ Apollo
 
-The “next generation” of ActiveMQ, [ Apache Apollo](http://activemq.apache.org/apollo/ ), supports MQTT via a [plugin](https://github.com/fusesource/fuse-extra/tree/master/fusemq-apollo/fusemq-apollo-mqtt).
+The “next generation” of ActiveMQ, [Apache Apollo](http://activemq.apache.org/apollo/), supports MQTT via a [plugin](https://github.com/fusesource/fuse-extra/tree/master/fusemq-apollo/fusemq-apollo-mqtt).
 
 
 ## HiveMQ
