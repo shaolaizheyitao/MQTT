@@ -12,60 +12,11 @@
 [flespi](https://flespi.io/mqtt) is a cloud-based MQTT broker service. High-volume targeted architecture, isolated MQTT namespace, WebSockets/SSL support, 1-click [account registration](https://flespi.io), commercial and free SLA, managed by [HTTP REST API](https://flespi.io/mqtt). See [MQTT API FAQ](https://flespi.com/mqtt-api) for more information.
 
 ## MQTTnet
-[MQTTnet](https://github.com/chkr1011/MQTTnet/tree/master) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
-
-### Features
-* Performance optimized (publishing ~18.000 messages per second on local machine)
-* Async support
-* TLS 1.2 support for client and server (but not UWP servers)
-* Extensible communication channels (i.e. In-Memory, TCP, TCP+TLS, WS)
-* Interfaces included for mocking and testing
-* Lightweight (only the low level implementation of MQTT, no overhead)
-* Access to internal trace messages
-* Unit tested (55+ tests)
-
-### Supported frameworks
-* .NET Standard 1.3+
-* .NET Core 1.1+
-* .NET Core App 1.1+
-* .NET Framework 4.5.2+ (x86, x64, AnyCPU)
-* Universal Windows (UWP) 10.0.10240+ (x86, x64, ARM, AnyCPU)
-
-### Supported MQTT versions
-* 3.1.1
-* 3.1.0
-
+[MQTTnet](https://github.com/chkr1011/MQTTnet/) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
 
 ## Bevywise MQTTRoute
 
-[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients.  MQTTRoute has a FREE and affordable premium version. 
-
-### Features 
-* Powerful Rule Engine 
-* TLS / SSL Support
-* Supports TCP & Websocket
-* Multiple MQTT Authentication Support. 
-* Data storage into MySQL , SQLite or ElasticSearch
-* Customise and connect to any Big Data engine or Application 
-* Inbuilt MQTT Gateway 
-
-### Scalability
-* MQTTRoute on a single commodity server can scale to connect 50,000 devices .  
-* The SaaS based version of MQTTRoute - the [IOT Platform](https://www.bevywise.com/iot-platform/) can be scaled to millions of devices. 
-
-### Supported Operating System: 
-
-* Windows 
-* Linux 
-* MAC 
-* Raspbian
-
-### Extendability
-
-MQTTRoute can be extended and customized to integrate to any application or to store data to any big data engine. We have rolled out a couple of open source plugins for integrating MQTTRoute to a few Big Data Stores. [Checkout the plugins at Github](https://github.com/bevywise-networks)
-
-You can [Securely host MQTTRoute](https://www.bevywise.com/blog/secure-mqtt-broker-hosting-aws/) on AWS, Google or any public cloud infrastructure. 
-
+[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients. MQTTRoute has a FREE and affordable premium version.
 
 ## IBM Websphere MQ Telemetry
 
