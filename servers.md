@@ -1,6 +1,6 @@
 # Servers/Brokers
 
-## More information on brokers
+### For more information on brokers
 
 *  [compare the capabilities](server-support) of different brokers
 *  see some of the [public brokers](public_brokers) available for testing on the wiki
