@@ -2,7 +2,7 @@
 - [ActiveMQ](http://activemq.apache.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Mosquitto](http://mosquitto.org/)
-- [flespi](https://flespi.io/mqtt)
+- [flespi](https://flespi.com/mqtt-broker)
 - [IBM MessageSight](http://www-03.ibm.com/software/products/en/iot-messagesight)
 - [Mosca](http://www.mosca.io/). More recently by the same author: [Aedes](https://www.npmjs.com/package/aedes)
 - [MQTT Dashboard](http://mqttdashboard.com/dashboard)
