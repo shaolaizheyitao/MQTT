@@ -27,27 +27,28 @@ The “next generation” of ActiveMQ, [Apache Apollo](http://activemq.apache.or
 
 [Emitter](https://emitter.io) is clustered and open-source MQTT broker, written entirely in Go. It proposes several additional features on top of a traditional MQTT broker, as it includes custom per-topic security and shared-nothing scalable architecture which helps you avoid single points of failure. Full source-code available on [GitHub](https://github.com/emitter-io/emitter).
 
+## emqttd
+
+[emqttd](https://github.com/emqtt/emqttd) is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP. [emqtt.io](http://emqtt.io/) / [@emqtt](https://twitter.com/emqtt)
+
+emqttd is fully open source and licensed under the Apache Version 2.0. EMQ implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports MQTT-SN, CoAP, WebSocket, STOMP and SockJS at the same time.
+
+emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT, M2M, Smart Hardware and Mobile Messaging Applications. The 1.0 release of the emqttd broker has scaled to 1.3 million concurrent MQTT connections on a 12 Core, 32G CentOS server.
+
 ## Eurotech Everywhere Device Cloud
 
 [Eurotech Everywhere Device Cloud](http://www.eurotech.com/en/solutions/device+to+cloud/mqtt+protocol) is a cloud-based service provided by [Eurotech](http://www.eurotech.com).
 
-## emqttd
-
-[emqttd](https://github.com/emqtt/emqttd) is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP.
-
-emqttd is fully open source and licensed under the Apache Version 2.0. EMQ implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports MQTT-SN, CoAP, WebSocket, STOMP and SockJS at the same time.
-
-emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT, M2M, Smart Hardware and Mobile Messaging Applications.
-
-The 1.0 release of the emqttd broker has scaled to 1.3 million concurrent MQTT connections on a 12 Core, 32G CentOS server.
-
-Please visit [emqtt.io](http://emqtt.io/) for more service. Follow us on Twitter: [@emqtt](https://twitter.com/emqtt)
-
 ## flespi
 [flespi](https://flespi.com/mqtt-broker) is a cloud-based MQTT broker service. High-volume targeted architecture, isolated MQTT namespace, WebSockets/SSL support, 1-click [account registration](https://flespi.io), commercial and free SLA, managed by [HTTP REST API](https://flespi.io/mqtt). See [MQTT API FAQ](https://flespi.com/mqtt-api) for more information.
 
-## MQTTnet
-[MQTTnet](https://github.com/chkr1011/MQTTnet/) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
+## HBMQTT
+
+[HBMQTT](https://github.com/beerfactory/hbmqtt) is an open-source implementation of MQTT broker and client. It uses Python 3.4+ asyncio library for providing a mono-threaded, non-blocking implementation of the protocol.
+
+## HiveMQ
+
+[HiveMQ](http://www.hivemq.com/ ) is a MQTT broker which was built from the ground up with maximum scalability and enterprise-ready security in mind. It comes with native web socket support and an open source plugin SDK to extend its functionality or integrate it with other components. A public test server is also available ([more information](public_brokers)).
 
 ## IBM Integration Bus
 
@@ -64,30 +65,24 @@ Please visit [emqtt.io](http://emqtt.io/) for more service. Follow us on Twitter
 The Telemetry MQTT feature is built-in optionally licensed feature in 
 [WebSphere MQ](http://www-01.ibm.com/software/integration/wmqfamily/telemetry/ ) version 7.1 and above. It provides full MQTT v3.1 support, IBM MQ and JMS support. IBM WebSphere MQ Advanced includes the MQTT license at no charge. It ships with reference Java (MIDP and above), C and JavaScript (MQTT over WebSocket) clients.
 
+## JoramMQ
+
+[JoramMQ](http://mqtt.jorammq.com) is an offering by ScalAgent providing a message broker that fully supports MQTT 3.1, JMS 2.0, and AMQP 1.0. Interoperability between these standards is ensured by the message broker. MQTT can be used over TCP/IP, TLS (SSL), WebSocket, and secure WebSocket. JoramMQ is particularly appropriate for applications that need to scale with the number of MQTT clients while allowing the publishers to reliably transmit a large volume of messages with a low latency.
+
+## MQTTnet
+[MQTTnet](https://github.com/chkr1011/MQTTnet/) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
+
 ## Moquette
 
-[ Moquette](https://github.com/andsel/moquette) is a Java MQTT broker based on an eventing model with Netty.
+[Moquette](https://github.com/andsel/moquette) is a Java MQTT broker based on an eventing model with Netty.
 
 ## Mosquitto
 
 [Mosquitto](http://mosquitto.org) is an Open Source MQTT server. A public, hosted test server is also available ([more information](public_brokers))
 
-
-## HBMQTT
-
-[HBMQTT](https://github.com/beerfactory/hbmqtt) is an open-source implementation of MQTT broker and client. It uses Python 3.4+ asyncio library for providing a mono-threaded, non-blocking implementation of the protocol.
-
-## HiveMQ
-
-[ HiveMQ](http://www.hivemq.com/ ) is a MQTT broker which was built from the ground up with maximum scalability and enterprise-ready security in mind. It comes with native web socket support and an open source plugin SDK to extend its functionality or integrate it with other components. A public test server is also available ([more information](public_brokers)).
-
 ## Litmus Automation Loop
 
 [ Loop](http://litmusautomation.com ) is a cloud based MQTT broker with scalability, high availability and security at core. Loop provides full MQTT 3.1 support and JMS connectivity. It can handle extremely large numbers of connected clients. On the other side it can be connected to any ERP, CRM and enterprise architecture with ESB or NoSQL databases for blazing fast data storage.
-
-## JoramMQ
-
-[JoramMQ](http://mqtt.jorammq.com) is an offering by ScalAgent providing a message broker that fully supports MQTT 3.1, JMS 2.0, and AMQP 1.0. Interoperability between these standards is ensured by the message broker. MQTT can be used over TCP/IP, TLS (SSL), WebSocket, and secure WebSocket. JoramMQ is particularly appropriate for applications that need to scale with the number of MQTT clients while allowing the publishers to reliably transmit a large volume of messages with a low latency.
 
 ## Mosca
 
