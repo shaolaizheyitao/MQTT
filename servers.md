@@ -73,20 +73,20 @@ The Telemetry MQTT feature is built-in optionally licensed feature in
 
 [ Loop](http://litmusautomation.com ) is a cloud based MQTT broker with scalability, high availability and security at core. Loop provides full MQTT 3.1 support and JMS connectivity. It can handle extremely large numbers of connected clients. On the other side it can be connected to any ERP, CRM and enterprise architecture with ESB or NoSQL databases for blazing fast data storage.
 
-## MQTTnet
-[MQTTnet](https://github.com/chkr1011/MQTTnet/) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
-
 ## Moquette
 
 [Moquette](https://github.com/andsel/moquette) is a Java MQTT broker based on an eventing model with Netty.
+
+## Mosca
+
+As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugged on top of Redis, AMQP, MQTT, or ZeroMQ.
 
 ## Mosquitto
 
 [Mosquitto](http://mosquitto.org) is an Open Source MQTT server. A public, hosted test server is also available ([more information](public_brokers))
 
-## Mosca
-
-As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugged on top of Redis, AMQP, MQTT, or ZeroMQ.
+## MQTTnet
+[MQTTnet](https://github.com/chkr1011/MQTTnet/) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
 
 ## RabbitMQ
 
@@ -101,14 +101,6 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 [ThingScale IoT message broker](http://thingscale.io/index_en.html) is a fully-managed IoT messaging service provided by [Sensinics,LLC](http://sensinics.co.jp).
 ThingScale provides a messaging system for IoT connected devices. The API is used to retrieve events, users, devices, sessions, and channels in JSON format. ThingScale supports TLS payload encryption, scheme-less and cyclic data sampling, and trigger-based notifications. A 30days trial license is offered free of charge. MQTT is the preferred messaging protocol. [Dev Portal](https://sensinics.atlassian.net/wiki/spaces/TD/pages/76021778/Developer+Portal) & [API Portal](https://thingscale.docs.apiary.io/)
 
-## Xively
-
-The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly known as Pachube, provides a data cloud for the Internet of Things, with MQTT support in beta. This is not a generic MQTT broker implementation; it uses MQTT as a transport for publishing and subscribing to your already existing data feeds ([more information](mqtt_and_pachube)).
-
-## Yunba.io
-
-[ Yunba](http://yunba.io/) is a backend cloud platform that provides real-time message dispatch service to mobile applications and devices and uses MQTT as a transport protocol, The services include bi-directional push for Instant-Messaging; real-time analyzing; real-time online monitoring.
-
 ## VerneMQ
 
 [VerneMQ](http://verne.mq) is an enterprise ready, high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low and predictable latency and fault tolerance. VerneMQ plugins can be developed in Erlang, Elixir, Lua, and any programming language that can implement HTTP WebHooks. VerneMQ uses modern broadcast protocols and LevelDB for state replication in a cluster. VerneMQ is Open Source and Apache2 licensed.
@@ -116,3 +108,11 @@ The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly know
 ## Vert.x MQTT Broker
 [Vert.x MQTT Broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) is an open-source implementation of MQTT server. It implements protocol versions 3.1.1 and 3.1, supports QoS 2, and uses OAuth2 for autentication.
 It uses [vert.x](http://vertx.io/) as library for tcp managemnet, non-blocking / actor-model, clustering and auth plugin system.
+
+## Xively
+
+The [ Xively](http://xively.com ) service, formerly known as Cosm, formerly known as Pachube, provides a data cloud for the Internet of Things, with MQTT support in beta. This is not a generic MQTT broker implementation; it uses MQTT as a transport for publishing and subscribing to your already existing data feeds ([more information](mqtt_and_pachube)).
+
+## Yunba.io
+
+[ Yunba](http://yunba.io/) is a backend cloud platform that provides real-time message dispatch service to mobile applications and devices and uses MQTT as a transport protocol, The services include bi-directional push for Instant-Messaging; real-time analyzing; real-time online monitoring.
