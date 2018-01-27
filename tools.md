@@ -4,9 +4,6 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 ### Web
 
-
-*  [ mqtt.io](http://mqtt.io/ ) - a beautiful, functional web-based client for "any" MQTT broker available on a public IP address. Very handy for running quick tests from any browser.
-
 *  [ MQTT over websockets](http://test.mosquitto.org/ws.html) (experimental) - from the mosquitto project.
 
 *  [ HiveMQ Websockets Client](http://www.hivemq.com/demos/websocket-client/) - a websocket based client for your browser which supports publishing & subscribing.
