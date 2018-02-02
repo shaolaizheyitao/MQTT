@@ -40,10 +40,10 @@ _info_ | [admin dashboard](http://dev.rabbitmq.com)
 
 field | value
 ------|------
-_address_ | `broker.mqttdashboard.com` 
+_address_ | `broker.hivemq.com` 
 _port_ | `1883`, `8000` (WebSockets) 
 _type_ | HiveMQ 
-_info_ | [information page](http://www.mqtt-dashboard.com/info/broker), [stastistics and dashboard](http://www.mqtt-dashboard.com/dashboard)
+_info_ | [information page](https://www.hivemq.com/try-out/), [stastistics and dashboard](http://www.mqtt-dashboard.com/dashboard)
 
 ***
 
