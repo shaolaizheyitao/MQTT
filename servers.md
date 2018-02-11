@@ -21,7 +21,7 @@ The “next generation” of ActiveMQ, [Apache Apollo](http://activemq.apache.or
 
 ## Bevywise MQTTRoute
 
-[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients. MQTTRoute has a FREE and affordable premium version.
+[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients. MQTTRoute has a FREE and affordable premium version. MQTTRoute can be customized to write data to any data store using [standard connectors](https://github.com/bevywise-networks/) or custom implementations.
 
 ## Emitter 
 
