@@ -26,7 +26,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Netduino](https://github.com/danielan/NetduinoMQTT)
 
-*  [M2MQTT (works with .Net Micro Framework)](https://github.com/ppatierno/m2mqtt)
+*  [M2MQTT (works with .Net Micro Framework)](https://github.com/eclipse/paho.mqtt.m2mqtt)
 
 (see also [devices](things) page for more on hardware with built-in support)
 
