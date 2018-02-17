@@ -26,6 +26,7 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 ### Desktop tools
 
+*  [Bevywise IoT Simulator](https://www.bevywise.com/iot-simulator/) - IoT Simulator provides complete functional and performance testing tools for the MQTT Platform, Application & Devices Development.
 
 *  [IA92](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24006006&loc=en_US&cs=utf-8&lang=en) - IA92 support pack includes very useful MQTT Java swing GUI for publishing & subscribing.
 
