@@ -16,7 +16,7 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [ Moquette](https://github.com/andsel/moquette ) - an open source JAVA broker for MQTT protocol.
 
-*  [ IOTSIM.IO](https://mqttlab.iotsim.io ) - SaaS MQTT lab.
+*  [ IOTSIM.IO](http://mqttlab.iotsim.io ) - SaaS MQTT lab.
 
 
 ### Mobile platforms
