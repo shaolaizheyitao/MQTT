@@ -7,7 +7,7 @@ field | value
 _address_ | `mqtt.flespi.io`
 _port_ | `1883` (TCP), `80` (WebSocket), `8883` (SSL), `443` (Secure WebSockets)
 _type_ | flespi
-_info_ | requires signup/username, [information page](https://flespi.com/mqtt-broker), free to use up to [100 persistent sessions](https://flespi.com/pricing#restrictions), [REST API](https://flespi.io/mqtt)
+_info_ | requires signup/username, [information page](https://flespi.com/mqtt-broker), [REST API](https://flespi.io/mqtt)
 
 ***
 
