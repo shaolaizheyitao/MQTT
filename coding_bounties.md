@@ -22,6 +22,8 @@ Have an idea for an MQTT app but don't have the time, skill or knowledge to crea
 
 *  MQTT client for [NeTV](http://wiki.chumby.com/index.php/What_is_NeTV)
 
+*  LED panel client and server
+
 *  add your idea here :-)
 ## Completed
 
