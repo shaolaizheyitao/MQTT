@@ -189,6 +189,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Eclipse Paho Python](https://github.com/eclipse/paho.mqtt.python) - originally the mosquitto Python client
 
+* [gmqtt](https://github.com/wialon/gmqtt)
+
 *  [nyamuk](https://github.com/iwanbk/nyamuk)
 
 *  [MQTT for twisted python](https://github.com/adamvr/MQTT-For-Twisted-Python)
