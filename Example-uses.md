@@ -9,6 +9,7 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 *  [Say It, Sign It (SiSi)](http://mqtt.org/projects/sisi) an IBM Extreme Blue Project
 *  [Relayr](https://relayr.io) uses MQTT to connect with the [Wunderbar](https://relayr.io/wunderbar) and other IoT devices.
 *  [Owasys AVL](https://flotas.owasys.com/en) is a fleet management service providing real-time tracking and event information efficiently using MQTT and [owa11A](http://www.owasys.com/en/products/owa11) devices.
+*  [flespi](https://flespi.com/platform) relies on MQTT in [internal communications between services](https://flespi.com/blog/mbus-the-mqtt-flespi-style-and-the-opportunities-it-brings-along).
 
 ## Home Automation
 
