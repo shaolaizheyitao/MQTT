@@ -2,6 +2,7 @@
 
 If you came across an interesting blog post please add it here.
 
+*  [Event-driven web application design with MQTT](https://flespi.com/blog/event-driven-web-application-design-with-mqtt)
 
 *  [Linux desktop notification applet](http://chris.yeoh.info/?p=78) in GNOME 2
 
