@@ -82,11 +82,4 @@ _type_ | `Bevywise`
 _info_ | [web page](http://bevywise.com/iot-platform). Secure. Need to sign up to view your devices. Use MQTT Authentication in your devices to connect securely.
 ***
 
-field | value
-------|------
-_address_ | `m.thingscale.io`
-_port_ | `1883` (TCP), `8083` (WebSocket), `8883` (SSL), `8084` (Secure WebSockets)
-_type_ | 'thingscale.io'
-_info_ | requires signup/username and password, [signup](https://m.thingscale.io/signup/index_en.php) (30days trial plan available), [Dev Portal](https://sensinics.atlassian.net/wiki/spaces/TD/pages/76021778/Developer+Portal), [API Portal](https://thingscale.docs.apiary.io)
-
 ***
