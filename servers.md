@@ -40,7 +40,7 @@ emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT,
 [Eurotech Everywhere Device Cloud](http://www.eurotech.com/en/solutions/device+to+cloud/mqtt+protocol) is a cloud-based service provided by [Eurotech](http://www.eurotech.com).
 
 ## flespi
-[flespi](https://flespi.com/mqtt-broker) is a public and free cloud-based MQTT broker service declaring 3.0, 3.1.1, 5.0 protocols compliance. High-volume targeted architecture, isolated MQTT namespace, WebSockets/SSL support, configurable ACL, commercial and free SLA, managed by [HTTP REST API](https://flespi.io/mqtt). 
+[flespi](https://flespi.com/mqtt-broker) is a public and free cloud-based MQTT broker service with declared 3.1, 3.1.1, 5.0 protocols compliance. High-volume targeted architecture, isolated MQTT namespace, WebSockets/SSL support, configurable ACL, commercial and free SLA, managed by [HTTP REST API](https://flespi.io/mqtt). 
 
 ## HBMQTT
 
