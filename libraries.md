@@ -48,6 +48,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [libemqtt](https://github.com/menudoproblema/libemqtt) - an embedded C client
 
+*  [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. 
+
 *  [wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - Embedded C client
 
 #### C++
