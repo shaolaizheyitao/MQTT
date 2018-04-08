@@ -19,6 +19,7 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [kamilfb84](http://twitter.com/kamilfb84) - Kamil Baczkowicz ([mqtt-spy](http://kamilfb.github.io/mqtt-spy/), IECC Scalable)
 *  [krital](http://twitter.com/krital) - Alex Kritikos
 *  [wutu](https://twitter.com/wutu_cz) - Marek Kail
+*  [emmaodunlade](https://twitter.com/emmaodunlade) - Emmanuel Odunlade
 
 
 ## Projects and sites
