@@ -1,6 +1,6 @@
 Differences between versions 3.1.1 and 5.0 of the MQTT specification:
 
-3.1.1 specification: hhttp://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
+3.1.1 specification: http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 
 5.0 specification: http://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html (pages 135/ 136)
 
