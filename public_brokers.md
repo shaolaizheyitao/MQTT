@@ -76,10 +76,10 @@ _info_ | Free, it is mostly running for [Swifitch project](http://www.swifitch.c
 
 field | value
 ------|------
-_address_ | `mqttserver.com`
-_port_ | `1883` (TCP), `8000` (WebSocket), `8883` (SSL), `8443` (Secure WebSockets)
+_address_ | `broker.bevywise.com`
+_port_ | `1883` (TCP), `8443` (WebSockets)
 _type_ | `Bevywise`
-_info_ | [web page](http://bevywise.com/iot-platform). Secure. Need to sign up to view your devices. Use MQTT Authentication in your devices to connect securely.
+_info_ | [web page](http://bevywise.com/iot-platform). Secure. Need to sign up to view your devices. Use MQTT Authentication in your devices to connect securely. Free trial with unsecure ports (see https://devicemanager.bevywise.com/help)
 ***
 
 ***
