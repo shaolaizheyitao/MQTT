@@ -27,14 +27,6 @@ _port_ | `1883`, `8883` (SSL), `8884` (SSL), `80` (WebSockets)
 _type_ | mosquitto
 _info_ | [web page](http://test.mosquitto.org), [Xively statistics](https://xively.com/feeds/43810), [topics and HTTP bridge](http://test-mosquitto.heroku.com)
 
-***
-
-field | value
-------|------
-_address_ | `dev.rabbitmq.com` 
-_port_ | `1883` 
-_type_ | rabbitmq 
-_info_ | [admin dashboard](http://dev.rabbitmq.com)
 
 ***
 
