@@ -98,7 +98,7 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 ## SwiftMQ
 
-[SwiftMQ Universal Router](http://www.swiftmq.com/landing/router/index.html) SwiftMQ is an enterprise message system with
+[SwiftMQ Universal Router](http://www.swiftmq.com/landing/router/index.html) is an enterprise message system with
 integrated micro services and realtime streaming analytics platform (SwiftMQ Streams, SwiftMQ Dashboard). It supports MQTT 3.1/3.1.1, AMQP 1.0/0.9.1, JMS 1.1 and is fully interoperable between these protocols. It has a built-in Dynamic Routing Architecture to build large Federated Router Networks and Clusters. SwiftMQ High Availability Router is the High and Continuous Availability version of SwiftMQ Universal Router with active replication and transparent client failover.
 
 ## ThingScale IoT message broker
