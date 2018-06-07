@@ -96,6 +96,11 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 [Solace Message Routers](http://dev.solacesystems.com/tech/) (available as hardware and software) are message brokers that support MQTT, JMS, and REST among other APIs, protocols and qualities of service for enterprise messaging, data collection and web/mobile streaming. They support very high connection counts and throughput with built-in buffering to handle bursty traffic, and offer enterprise-class monitoring, high availability and security.
 
+## SwiftMQ
+
+[SwiftMQ Universal Router](http://www.swiftmq.com/landing/router/index.html) SwiftMQ is an enterprise message system with
+integrated micro services and realtime streaming analytics platform (SwiftMQ Streams, SwiftMQ Dashboard). It supports MQTT 3.1/3.1.1, AMQP 1.0/0.9.1, JMS 1.1 and is fully interoperable between these protocols. It has a built-in Dynamic Routing Architecture to build large Federated Router Networks and Clusters. SwiftMQ High Availability Router is the High and Continuous Availability version of SwiftMQ Universal Router with active replication and transparent client failover.
+
 ## ThingScale IoT message broker
 
 [ThingScale IoT message broker](http://thingscale.io/index_en.html) is a fully-managed IoT messaging service provided by [Sensinics,LLC](http://sensinics.co.jp).
