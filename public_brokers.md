@@ -1,6 +1,6 @@
 This page is an effort to list the publically-accessible MQTT brokers, often useful for testing and prototyping.
 
-Note: none of these test brokers carry any guarantee of service. Be sensible when using them and don't break things for others! :-)
+Note: none of these test brokers (except mqtt.flespi.io) carry any guarantee of service. Be sensible when using them and don't break things for others! :-)
 
 field | value
 ------|------
