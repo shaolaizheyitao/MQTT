@@ -143,6 +143,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Paho.MqttDotnet](https://github.com/xljiulang/Paho.MqttDotnet/)
 
+*  [MQTTnet](https://github.com/chkr1011/MQTTnet)
+
 *  [MqttDotNet](http://sourceforge.net/projects/mqttdotnet/)
 
 *  [nMQTT](https://github.com/markallanson/nmqtt)
