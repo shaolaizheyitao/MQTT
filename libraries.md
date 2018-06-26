@@ -101,7 +101,7 @@ Check with the provider for the current status of your preferred language implem
 
 #### Java
 
-*  [Eclipse Paho Java](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.java.git/)
+*  [Eclipse Paho Java](https://www.eclipse.org/paho/clients/java/)
 
 *  [Xenqtt](http://xenqtt.sf.net) Includes a client library, mock broker for unit/integration testing, and applications to support enterprise needs like using a cluster of servers as a single client, an HTTP gateway, etc.
 
