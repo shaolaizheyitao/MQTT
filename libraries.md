@@ -155,6 +155,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [StriderMqtt](https://github.com/ericvoid/StriderMqtt)
 
+*  [xamarin mqtt](https://github.com/xamarin/mqtt)
+
 #### Objective-C
 
 *  [mqttIO-objC](https://github.com/GrayWang/mqttIO-objC)
