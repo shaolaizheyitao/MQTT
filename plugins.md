@@ -11,7 +11,13 @@ MQTT has been incorporated into various runtimes and frameworks via modules or p
 
 *  [moquette-mqtt](https///code.google.com/p/moquette-mqtt/) – an MQTT plugin for Apache Mina, written in Java
 
+*  [MQTT](https://plugins.octoprint.org/plugins/mqtt/) - An [OctoPrint](https://octoprint.org) plugin to add support for subscribing and publishing to MQTT topics.
+
 *  [mule-module-mqtt](https///github.com/dmiller44/mule-module-mqtt) – a Mule ESB Connector
+
+*  [OctoPrint-MQTTPublish](https://plugins.octoprint.org/plugins/mqttpublish/) - An [OctoPrint](https://octoprint.org) plugin to add buttons to the navbar to publish messages to an MQTT server.
+
+*  [OctoPrint-TasmotaMQTT](https://plugins.octoprint.org/plugins/tasmota_mqtt/) - An [OctoPrint](https://octoprint.org) plugin to control Tasmota devices via the MQTT protocol.
 
 *  [TDI MQTT](http://blog.stephen-swann.co.uk/2012/06/tdi-and-mqtt-to-rsmb.html) – a Tivoli Directory Integrator plugin based on (the deprecated) IA92 SupportPac client
 
