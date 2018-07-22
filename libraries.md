@@ -51,7 +51,7 @@ Check with the provider for the current status of your preferred language implem
 *  [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. 
 
 *  [wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - Embedded C client
-*  [MQTT-C](https://gitlab.com/rts_nepal/embedded/lwIP_mbedtls_mqtt_c) - MQTT C client for embedded systems using FreeRTOS, lwIP and mbedtls
+*  [MQTT over lwIP](https://gitlab.com/rts_nepal/embedded/lwIP_mbedtls_mqtt_c) - MQTT C client for embedded systems using FreeRTOS, lwIP and mbedtls
 
 #### C++
 
