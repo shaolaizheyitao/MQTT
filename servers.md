@@ -11,13 +11,9 @@
 
 Details of “classic” [ActiveMQ’s](http://activemq.apache.org/index.html) support for MQTT are available [here](http://activemq.apache.org/mqtt.html).
 
-## Apache ActiveMQ Apollo
-
-The “next generation” of ActiveMQ, [Apache Apollo](http://activemq.apache.org/apollo/), supports MQTT via a [plugin](https://github.com/fusesource/fuse-extra/tree/master/fusemq-apollo/fusemq-apollo-mqtt).
-
 ## Apache ActiveMQ Artemis
 
-[Artemis](http://activemq.apache.org/artemis/) is a multi protocol messaging broker that supports MQTT.
+The “next generation” of ActiveMQ, [Artemis](http://activemq.apache.org/artemis/) is a multi protocol messaging broker that supports MQTT.
 
 ## Bevywise MQTTRoute
 
