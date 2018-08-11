@@ -30,6 +30,7 @@ Server                                                                          
 [Trafero Tstack](https://github.com/trafero/tstack)                               | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                        | ✔   | ✔                                    | ✘       | ✘          | ✘             | 
 [VerneMQ](https://verne.mq)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [WebSphere MQ](http://www-03.ibm.com/software/products/en/wmq/)                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ?       | ?          | ?             | 
+[MqttWk](https://github.com/Wizzercn/MqttWk)                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ?                        | ✔   | ✔                                    | ✔       | ✔          | ✘             | 
 
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap (planned)
