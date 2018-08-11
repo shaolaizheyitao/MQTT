@@ -22,6 +22,7 @@ Server                                                                          
 [mosca](mosca)                                                                    | ✔     | ✔     | ✘     | ✔    | ?                         | ?                        | ?   | ?                                    | ✘       | ✔          | ✘             | 
 [mosquitto](mosquitto_message_broker)                                             | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | §       | ✔          | ✔             | 
 [MQTT.js](https://github.com/mqttjs/MQTT.js)                                      | ✔     | ✔     | ✔     | §    | ✘                         | ✘                        | ✔   | ✔                                    | ✘       | ✔          | ✘             | 
+[MqttWk](https://github.com/Wizzercn/MqttWk)                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ?                        | ✔   | ✔                                    | ✔       | ✔          | ✘             | 
 [RabbitMQ](http://www.rabbitmq.com/blog/2012/09/12/mqtt-adapter/)                 | ✔     | ✔     | ✘     | ✔    | ✘                         | ✘                        | ✔   | ✔                                    | ?       | ?          | ?             | 
 [RSMB](Really-Small-Message-Broker)                                               | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✘   | ✔                                    | ✘       | ✘          | ?             | 
 [Software AG Universal Messaging](http://um.terracotta.org/#page/%2Fum.terracotta.org%2Funiversal-messaging-webhelp%2Fto-mqttoverview.html%23) | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                        | ✔   | ✔                                    | ✔       | rm          | ✘             | 
@@ -30,7 +31,6 @@ Server                                                                          
 [Trafero Tstack](https://github.com/trafero/tstack)                               | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                        | ✔   | ✔                                    | ✘       | ✘          | ✘             | 
 [VerneMQ](https://verne.mq)                                                       | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [WebSphere MQ](http://www-03.ibm.com/software/products/en/wmq/)                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ?       | ?          | ?             | 
-[MqttWk](https://github.com/Wizzercn/MqttWk)                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ?                        | ✔   | ✔                                    | ✔       | ✔          | ✘             | 
 
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap (planned)
