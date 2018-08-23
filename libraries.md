@@ -93,7 +93,7 @@ Check with the provider for the current status of your preferred language implem
 
 #### Go
 
-*  [Eclipse Paho Go](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.golang.git/)
+*  [Eclipse Paho Go](https://github.com/eclipse/paho.mqtt.golang)
 *  [mqtt by jeffallen](https://github.com/jeffallen/mqtt)
 
 #### Haskell
