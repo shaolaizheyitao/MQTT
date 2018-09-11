@@ -72,6 +72,14 @@ _address_ | `broker.bevywise.com`
 _port_ | `1883` (TCP), `8443` (WebSockets)
 _type_ | `Bevywise`
 _info_ | [web page](http://bevywise.com/iot-platform). Secure. Need to sign up to view your devices. Use MQTT Authentication in your devices to connect securely. Free trial with unsecure ports (see https://devicemanager.bevywise.com/help)
+
 ***
+
+field | value
+------|------
+_address_ | `mqtt.fluux.io`
+_port_ | `1883` (TCP), `8883` (TLS)
+_type_ | ejabberd
+_info_ | Free - no registration required, MQTT 5.0 compliant
 
 ***
