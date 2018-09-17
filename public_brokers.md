@@ -83,3 +83,11 @@ _type_ | ejabberd
 _info_ | Free - no registration required, MQTT 5.0 compliant
 
 ***
+
+field | value
+------|------
+_address_ | [`console.solace.cloud`](https://console.solace.cloud) (MQTT hostname varies, see dashboard)
+_port_ | TCP, TLS, WS, WSS: varies per instance
+_type_ | solace
+_info_ | requires sign-up, free plan available (50 connections), [getting started](https://cloud.solace.com/learn/), [docs](https://docs.solace.com/)
+
