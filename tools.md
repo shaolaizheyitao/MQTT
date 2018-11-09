@@ -4,6 +4,8 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 ### Web
 
+* [MQTT Board](https://mqttboard.flespi.io) - diagnostic oriented MQTT 5.0 client tool based on [mqtt.js](https://github.com/mqttjs). Available in [open source](https://github.com/flespi-software/mqtt-board).
+
 *  [ MQTT over websockets](http://test.mosquitto.org/ws.html) (experimental) - from the mosquitto project.
 
 *  [ HiveMQ Websockets Client](http://www.hivemq.com/demos/websocket-client/) - a websocket based client for your browser which supports publishing & subscribing.
