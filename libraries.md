@@ -52,6 +52,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - Embedded C client
 *  [MQTT over lwIP](https://gitlab.com/rts_nepal/embedded/lwIP_mbedtls_mqtt_c) - MQTT C client for embedded systems using FreeRTOS, lwIP and mbedtls
+*  [libsmartfactory](http://smartfactory.openapc.com) - easy to use library for different Smart Factory/Industry 4.0 technologies including a MQTT client implementation
 
 #### C++
 
