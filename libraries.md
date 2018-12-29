@@ -140,6 +140,7 @@ Check with the provider for the current status of your preferred language implem
 #### Lua
 
 *  [Eclipse Paho Lua](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.lua.git/)
+*  [luamqtt - Pure-lua MQTT client](https://github.com/xHasKx/luamqtt/)
 
 #### .NET / dotNET
 
