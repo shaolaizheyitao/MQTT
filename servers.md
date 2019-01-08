@@ -118,3 +118,15 @@ It uses [vert.x](http://vertx.io/) as library for tcp managemnet, non-blocking /
 
 [ Yunba](http://yunba.io/) is a backend cloud platform that provides real-time message dispatch service to mobile applications and devices and uses MQTT as a transport protocol, The services include bi-directional push for Instant-Messaging; real-time analyzing; real-time online monitoring.
 
+## Cassandana
+[Cassandana](https://github.com/mtsoleimani/cassandana/) is an open source MQTT message broker which is entirely written in Java. This project began its life as a fork of [Moquette](https://github.com/andsel/moquette) , and later underwent some cleanup, optimization and adding extra features. Now it’s ready to work as an enterprise message broker.
+Features: 
+    MQTT compliant broker.
+    Supports QoS 0, QoS 1 and QoS 2
+    TLS (SSL) Encryption
+    PostgreSQL, MySQL and MongoDB Authentication and Authorization
+    Supports HTTP REST API for Authentication and Authorization
+    MQTT message archiver (Silo integrated in Cassandana)
+    Easy configurable (YAML based)
+    Supports WebSocket
+
