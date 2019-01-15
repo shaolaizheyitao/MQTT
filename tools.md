@@ -78,6 +78,8 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [ mqtt-republisher-daemon](https://github.com/bluewindthings/mqtt-republisher-daemon ) - a small MQTT topics republisher.
 
+* [ OPC Router](https://www.opc-router.com/4_1-mqtt-client-opc-router-plug-in-en/) - MQTT Gateway (publisher/subscriber) with various plug-ins
+
 ### Misc
 
 
