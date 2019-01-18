@@ -1,6 +1,6 @@
 This page is an effort to list the publically-accessible MQTT brokers, often useful for testing and prototyping.
 
-Note: none of these test brokers (except mqtt.flespi.io) carry any guarantee of service. Be sensible when using them and don't break things for others! :-)
+Note: none of these test brokers (except mqtt.flespi.io and myqtthub.com) carry any guarantee of service. Be sensible when using them and don't break things for others! :-)
 
 field | value
 ------|------
@@ -91,3 +91,11 @@ _port_ | TCP, TLS, WS, WSS: varies per instance
 _type_ | solace
 _info_ | requires sign-up, free plan available (50 connections), [getting started](https://cloud.solace.com/learn/), [docs](https://docs.solace.com/)
 
+***
+
+field | value
+------|------
+_address_ | `node02.myqtthub.com`
+_port_ | `1883` (TCP), `8883` (SSL), `443` (Web, REST and API interface)
+_type_ | MyQtthub
+_info_ | requires signup/username, [information page](https://myqtthub.com), [REST API](https://www.asplhosting.com/portal/en/rest-api-to-manage-mqtt-service)
