@@ -95,7 +95,7 @@ _info_ | requires sign-up, free plan available (50 connections), [getting starte
 
 field | value
 ------|------
-_address_ | `node02.myqtthub.com`
+_address_ | [`node02.myqtthub.com`](https://node02.myqtthub.com)
 _port_ | `1883` (TCP), `8883` (SSL), `443` (Web, REST and API interface)
 _type_ | MyQtthub
 _info_ | requires signup/username, [information page](https://myqtthub.com), [REST API](https://www.asplhosting.com/portal/en/rest-api-to-manage-mqtt-service)
