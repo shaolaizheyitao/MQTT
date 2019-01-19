@@ -81,6 +81,10 @@ As node.js MQTT broker can [ Mosca](https://github.com/mcollina/mosca ) be plugg
 
 [Mosquitto](http://mosquitto.org) is an Open Source MQTT server. A public, hosted test server is also available ([more information](public_brokers))
 
+## MyQttHub.com
+
+[MyQttHub.com](https://myqtthub.com) Cloud MQTT platform to build your IoT projects. It includes support for MQTT, MQTT-TLS, Web Interface and REST API for full HTTP+MQTT integration. 
+
 ## MQTTnet
 [MQTTnet](https://github.com/chkr1011/MQTTnet/) is a .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). 
 
