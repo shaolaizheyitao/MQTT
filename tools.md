@@ -30,7 +30,7 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 ### Desktop tools
 
-*  [MIMIC MQTT Simulator](http://www.gambitcomm.com/site/mqttsimulator.php) - Thousands of publishers and/or subscribers for rapid prototyping of IoT Applications, performance testing and tuning of deployments.
+*  [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - Thousands of publishers and/or subscribers for rapid prototyping of IoT Applications, performance testing and tuning of deployments.
 
 *  [Bevywise IoT Simulator](https://www.bevywise.com/iot-simulator/) - IoT Simulator provides complete functional and performance testing tools for the MQTT Platform, Application & Devices Development.
 
