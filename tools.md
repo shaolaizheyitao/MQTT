@@ -50,6 +50,8 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 * [MQTT.fx](http://mqttfx.org/) - MQTT.fx is a MQTT Client written in Java based on Eclipse Paho.
 
+* [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) - MQTT Topic Statistics
+
 ### Desktop notification tools
 
 
