@@ -48,7 +48,7 @@ emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT,
 
 ## Jmqtt
 
-[Jmqtt](https://github.com/Cicizz/jmqtt ) is a MQTT broker which implemented by java and netty,support ersistence and cluster.
+[Jmqtt](https://github.com/Cicizz/jmqtt ) is a MQTT broker which implemented by java and netty,support persistence and cluster.
 
 ## IBM Integration Bus
 
