@@ -15,9 +15,9 @@ Details of “classic” [ActiveMQ’s](http://activemq.apache.org/index.html) s
 
 The “next generation” of ActiveMQ, [Artemis](http://activemq.apache.org/artemis/) is a multi protocol messaging broker that supports MQTT.
 
-## Bevywise MQTTRoute
+## Bevywise MQTT Broker
 
-[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients. MQTTRoute has a FREE and affordable premium version. MQTTRoute can be customized to write data to any data store using [standard connectors](https://github.com/bevywise-networks/) or custom implementations. Try the [publicly hosted MQTTRoute](http://mqttroute.com/)
+[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients. Bevywise MQTT Broker has a FREE and affordable premium version. MQTTRoute can be customized to write data to any data store using [standard connectors](https://github.com/bevywise-networks/) or custom implementations. Try the [publicly hosted MQTTRoute](http://mqttroute.com/)
 
 ## Emitter 
 
