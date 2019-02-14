@@ -50,6 +50,8 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 * [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) - MQTT Topic Statistics
 
+* [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - MQTT visualize, publish, subscribe, plot topics. Visualizes topics in a topic hierarchy.
+
 ### Desktop notification tools
 
 *  [OS X desktop notifications](http://ceit.uq.edu.au/content/mqtt-and-growl) using Growl.
