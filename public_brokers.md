@@ -99,3 +99,12 @@ _address_ | [`node02.myqtthub.com`](https://node02.myqtthub.com)
 _port_ | `1883` (TCP), `8883` (SSL), `443` (Web, REST and API interface)
 _type_ | MyQtthub
 _info_ | requires signup/username, [information page](https://myqtthub.com), [REST API](https://www.asplhosting.com/portal/en/rest-api-to-manage-mqtt-service)
+
+***
+
+field | value
+------|------
+_address_ | [`mqtt.teserakt.io`](http://mqtt.teserakt.io)
+_port_ | `1883` (TCP)
+_type_ | VerneMQ
+_info_ | free, open, not for production (several performance limits, etc.) 
