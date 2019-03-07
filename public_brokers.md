@@ -107,4 +107,4 @@ field | value
 _address_ | [`mqtt.teserakt.io`](http://mqtt.teserakt.io)
 _port_ | `1883` (TCP)
 _type_ | VerneMQ
-_info_ | free, open, not for production (several performance limits, etc.) 
+_info_ | free, open, not for production (several performance limits, etc.), operated by [Teserakt](https://teserakt.io) 
