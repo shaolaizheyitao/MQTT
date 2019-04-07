@@ -34,8 +34,6 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [IA92](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24006006&loc=en_US&cs=utf-8&lang=en) - IA92 support pack includes very useful MQTT Java swing GUI for publishing & subscribing.
 
-*  [MQTT.app](https://itunes.apple.com/gb/app/mqtt/id560697602?mt=12 ) - an OS X desktop test application (simple pub/sub) by 2lemetry, available from the Mac App Store.
-
 *  [SimpleMessage](http://www.banym.de/m2m/first-very-basic-mqtt-mac-app ) - a basic OS X desktop client based on the Paho C client.
 
 *  [TT3](https://github.com/francoisvdm/TT3) - a full featured windows MQTT client application using Paho libs.  Several additional features like performance testing and alerts.
