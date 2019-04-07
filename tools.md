@@ -81,6 +81,8 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 * [OPC Router](https://www.opc-router.com/4_1-mqtt-client-opc-router-plug-in-en/) - MQTT Gateway (publisher/subscriber) with various plug-ins
 
+* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - ZigBee gateway that exposes ZigBee certified devices (Philis Hue, Xiaomi Aqara, ...) via mqtt. Commonly used for home automation. [list of supported devices](https://www.zigbee2mqtt.io/information/supported_devices.html)
+
 ### Misc
 
 *  [Eclipse Paho](http://eclipse.org/paho ) - provides an Eclipse view which can interact with a broker for testing.
