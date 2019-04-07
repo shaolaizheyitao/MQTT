@@ -28,25 +28,30 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 ### Desktop tools
 
-*  [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - Thousands of publishers and/or subscribers for rapid prototyping of IoT Applications, performance testing and tuning of deployments.
+* [MQTT Explorer](https://mqtt-explorer.com) - MQTT client to visualize, publish, subscribe, plot topics. Visualizes topics in a topic hierarchy. Intended for service integration, maintenance and refactorings.
 
-*  [Bevywise IoT Simulator](https://www.bevywise.com/iot-simulator/) - IoT Simulator provides complete functional and performance testing tools for the MQTT Platform, Application & Devices Development.
+* [TT3](https://github.com/francoisvdm/TT3) - a full featured windows MQTT client application using Paho libs.  Several additional features like performance testing and alerts.
 
-*  [IA92](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24006006&loc=en_US&cs=utf-8&lang=en) - IA92 support pack includes very useful MQTT Java swing GUI for publishing & subscribing.
-
-*  [TT3](https://github.com/francoisvdm/TT3) - a full featured windows MQTT client application using Paho libs.  Several additional features like performance testing and alerts.
-
-*  [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - the most advanced open source utility for monitoring activity on MQTT topics; based on the Paho Java client; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
-
-*  [mqtt-spy-daemon](http://kamilfb.github.io/mqtt-spy/) - a headless (command-line) version of mqtt-spy; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
-
-* [mosquitto_pub/mosquitto_sub](http://mosquitto.org) - Publish/Subscribe command line clients, provided with the mosquitto package.
+* [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - the most advanced open source utility for monitoring activity on MQTT topics; based on the Paho Java client; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
 
 * [MQTT.fx](http://mqttfx.org/) - MQTT.fx is a MQTT Client written in Java based on Eclipse Paho.
 
 * [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) - MQTT Topic Statistics
 
-* [MQTT Explorer](https://mqtt-explorer.com) - MQTT client to visualize, publish, subscribe, plot topics. Visualizes topics in a topic hierarchy. Intended for service integration, maintenance and refactorings.
+### Command line tools
+
+* [mosquitto_pub/mosquitto_sub](http://mosquitto.org) - Publish/Subscribe command line clients, provided with the mosquitto package.
+
+*  [mqtt-spy-daemon](http://kamilfb.github.io/mqtt-spy/) - a headless (command-line) version of mqtt-spy; for details see the [project's home page](http://kamilfb.github.io/mqtt-spy/).
+
+### Commercial Applications
+
+*  [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - Thousands of publishers and/or subscribers for rapid prototyping of IoT Applications, performance testing and tuning of deployments.
+
+*  [Bevywise IoT Simulator](https://www.bevywise.com/iot-simulator/) - IoT Simulator provides complete functional and performance testing tools for the MQTT Platform, Application & Devices Development.
+
+* [IA92](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24006006&loc=en_US&cs=utf-8&lang=en) - IA92 support pack includes very useful MQTT Java swing GUI for publishing & subscribing.
+
 
 ### Desktop notification tools
 
