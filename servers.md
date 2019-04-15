@@ -17,7 +17,7 @@ The “next generation” of ActiveMQ, [Artemis](http://activemq.apache.org/arte
 
 ## Bevywise MQTT Broker
 
-[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a highly secure, high performance broker.  The MQTT Broker is written in C & Python and works with all standard MQTT Clients. Bevywise MQTT Broker has a FREE and affordable premium version. MQTTRoute can be customized to write data to any data store using [standard connectors](https://github.com/bevywise-networks/) or custom implementations. Try the [publicly hosted MQTTRoute](http://mqttroute.com/)
+[MQTTRoute](https://www.bevywise.com/mqtt-broker/) is a high performance broker.  The [Secure MQTT Broker](https://www.bevywise.com/mqtt-broker/) is written in C & Python and works with all standard MQTT Clients. Bevywise MQTT Broker has a FREE and affordable premium version. MQTTRoute can be customized to write data to any data store using [standard connectors](https://github.com/bevywise-networks/) or custom implementations. Try the [publicly hosted MQTTRoute](http://mqttroute.com/)
 
 ## Emitter 
 
