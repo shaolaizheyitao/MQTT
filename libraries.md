@@ -54,6 +54,8 @@ Check with the provider for the current status of your preferred language implem
 *  [MQTT over lwIP](https://gitlab.com/rts_nepal/embedded/lwIP_mbedtls_mqtt_c) - MQTT C client for embedded systems using FreeRTOS, lwIP and mbedtls
 *  [libsmartfactory](http://smartfactory.openapc.com) - easy to use library for different Smart Factory/Industry 4.0 technologies including a MQTT client implementation
 
+*  [libumqtt](https://github.com/zhaojh329/libumqtt) - A Lightweight and fully asynchronous MQTT client C library based on libev
+
 #### C++
 
 *  [Eclipse Paho C++](https://www.eclipse.org/paho/clients/cpp/)
@@ -141,6 +143,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Eclipse Paho Lua](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.lua.git/)
 *  [luamqtt - Pure-lua MQTT client](https://github.com/xHasKx/luamqtt/)
+*  [libumqtt](https://github.com/zhaojh329/libumqtt)
 
 #### .NET / dotNET
 
