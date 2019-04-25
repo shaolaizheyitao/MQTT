@@ -94,6 +94,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Exmqttc](https://github.com/timbuchwaldt/exmqttc) - Elixir wrapper for the emqttc library.
 
+*  [tortoise](https://github.com/gausby/tortoise) - A MQTT Client written in Elixir
+
 #### Go
 
 *  [Eclipse Paho Go](https://github.com/eclipse/paho.mqtt.golang)
