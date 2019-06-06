@@ -58,7 +58,7 @@ emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT,
 
 ## IBM WIoTP Message Gateway
 
-[IBM WIoTP Message Gateway](https://www.ibm.com/developerworks/downloads/iot/messagegateway/index.html) is a messaging broker for MQTT (including MQTT v5, HTML5 WebSockets, JMS. Also connects/bridges IBM MQ, IBM Integration Bus. (Was formerly called IBM IoT MessageSight)
+[IBM WIoTP Message Gateway](https://www.ibm.com/developerworks/downloads/iot/messagegateway/index.html) is a scalable, hightly available messaging broker for MQTT (including MQTT v5, HTML5 WebSockets, JMS. Also connects/bridges IBM MQ, IBM Integration Bus. (Was formerly called IBM IoT MessageSight)
 
 ## IBM Websphere MQ Telemetry
 
