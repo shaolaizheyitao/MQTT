@@ -56,9 +56,9 @@ emqttd provides a scalable, reliable, enterprise-grade MQTT message Hub for IoT,
 
 [Really Small Message Broker](http://www.alphaworks.ibm.com/tech/rsmb) 75KB MQTT broker runtime free download as binaries from IBM alphaWorks, RSMB is a C implementation of a tiny MQTT server suitable for development, embedded systems, concentrators or small to medium sized deployments. It provides complete MQTT v3.1 support, bridging, and a C client API.
 
-## IBM MessageSight
+## IBM WIoTP Message Gateway
 
-[IBM MessageSight](http://www.ibm.com/messagesight) is a DMZ secure MQTT appliance with hardware messaging acceleration for M2M and mobile applications requiring extreme volume, low latency, FIPS 140-2 and NSA Suite B security. Messaging provider for MQTT, HTML5 WebSockets, JMS. Includes C, Java, JavaScript, Apache Cordova/PhoneGap, ObjectiveC clients. Also connects/bridges IBM MQ, IBM Integration Bus, WebSphere MessageBroker.
+[IBM WIoTP Message Gateway](https://www.ibm.com/developerworks/downloads/iot/messagegateway/index.html) is a messaging broker for MQTT (including MQTT v5, HTML5 WebSockets, JMS. Also connects/bridges IBM MQ, IBM Integration Bus. (Was formerly called IBM IoT MessageSight)
 
 ## IBM Websphere MQ Telemetry
 
