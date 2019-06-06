@@ -16,7 +16,7 @@ Server                                                                          
 [GnatMQ](https://github.com/ppatierno/gnatmq)                                     | ✔     | ✔     | ✔     | ✔    | ✘                         | ✘                        | ✘   | ✔                                    | ✘       | ✘          | ✘             |
 [HBMQTT](https://github.com/beerfactory/hbmqtt)                                   | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | ✘       | ✔          | ✔             | 
 [HiveMQ](http://www.hivemq.com)                                                   | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
-[IBM MessageSight](http://www-03.ibm.com/software/products/en/messagesight/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | §       | ✔          | ✘             |
+[IBM WIoTP Message Gateway](https://www.ibm.com/developerworks/downloads/iot/messagegateway/index.html)      | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             |
 [JoramMQ](http://mqtt.jorammq.com)                                                | ✔     | ✔     | ✔     | ✔    | ✔                         | ✔                        | ✔   | ✔                                    | ✔       | ✔          | ✔             | 
 [Mongoose](https://github.com/cesanta/mongoose)                                   | ✔     | ✔     | ?     | ?    | ?                         | ?                        | ?   | ?                                    | ?       | ?          | ?             | 
 [moquette](https://github.com/andsel/moquette)                                    | ✔     | ✔     | ✔     | ✔    | ?                         | ?                        | ✔   | ?                                    | **rm**       | ✔          | ✘             | 
@@ -39,8 +39,6 @@ Key: ✔ supported ✘ not supported ? unknown § see limitations **rm** roadmap
 
 
 *  MQTT.js  will accept connections with username and password supplied, but do not actually authenticate the connection
-
-* IBM MessageSight supports a High-Availability mode which provides the redundancy advantage of a cluster, but does not support any sort of load balancing for MQTT.
 
 * 2lemetry uses domains, where the first topic segment is the domain name. The `$SYS` topic space is under the domain (i.e. `com.example/$SYS/#`)
 
