@@ -146,6 +146,7 @@ Check with the provider for the current status of your preferred language implem
 *  [Eclipse Paho Lua](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.lua.git/)
 *  [luamqtt - Pure-lua MQTT client](https://github.com/xHasKx/luamqtt/)
 *  [libumqtt](https://github.com/zhaojh329/libumqtt)
+*  [lua-mosquitto](https://luarocks.org/modules/karlp/lua-mosquitto)
 
 #### .NET / dotNET
 
