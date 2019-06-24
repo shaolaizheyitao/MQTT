@@ -127,6 +127,8 @@ Check with the provider for the current status of your preferred language implem
 
 * [Qatja](https://github.com/Qatja) is a Java client library for MQTT 3.1.1 with specific implementation for Android and Processing
 
+*  [HiveMQ MQTT Client](https://github.com/hivemq/hivemq-mqtt-client) - MQTT 5.0 and MQTT 3.1.1 compatible and feature-rich high-performance Java client library with different API flavours and backpressure support
+
 #### Javascript / Node.js
 
 *  [Eclipse Paho HTML5 JavaScript over WebSocket.](https://github.com/eclipse/paho.mqtt.javascript)
