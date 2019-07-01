@@ -14,7 +14,7 @@ Further examples are described in comments to a post [Do you use MQTT?](http://m
 ## Home Automation
 
 *  [Andy SC's Twittering / Automated House](http://mqtt.org/projects/andy_house)
-*  [Power monitoring](http://stanford-clark.com/power.html)
+*  [Power monitoring](https://stanford-clark.com/andy_house.html)
 *  [Lighting control](http://chris.yeoh.info/?p=188)
 *  [Gardening](http://www.ossmedicine.org/home_automation/arduino/12/watering-the-garden-oss-style-a-year-with-some-open-hardware/)
 *  [energy monitoring with an old-style analog ammeter](http://chemicaloliver.net/arduino/mqtt-and-ammeters/)
